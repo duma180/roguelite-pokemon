@@ -164,9 +164,12 @@ namespace Roguelite.Gameplay.Phase3
                 if (move.Effect == BattleMoveEffect.RapidSpin && dmg > 0)
                 {
                     var own = s.SideCondition(side);
+                    // The HGSS command returns after clearing the first applicable
+                    // condition in this order: binding, Leech Seed, Spikes,
+                    // Toxic Spikes, then Stealth Rock.
                     if (a.BindingTurns > 0) { ev.Add(new BattleEvent3(s.Turn, BattleEventKind.Volatile, Id(a), detail: "rapid-spin-cleared-binding", amount: a.BindingTurns)); a.BindingTurns = 0; a.BindingSourceSide = -1; a.BindingSourceIndividualId = Guid.Empty; a.BindingMoveId = string.Empty; a.SwitchLocked = false; }
-                    if (a.LeechSeedSourceSide >= 0) { a.LeechSeedSourceSide = -1; ev.Add(new BattleEvent3(s.Turn, BattleEventKind.Volatile, Id(a), detail: "rapid-spin-cleared-leech-seed")); }
-                    if (own.SpikesLayers > 0) { own.SpikesLayers = 0; ev.Add(new BattleEvent3(s.Turn, BattleEventKind.Hazard, Id(a), detail: "rapid-spin-cleared-spikes")); }
+                    else if (a.LeechSeedSourceSide >= 0) { a.LeechSeedSourceSide = -1; ev.Add(new BattleEvent3(s.Turn, BattleEventKind.Volatile, Id(a), detail: "rapid-spin-cleared-leech-seed")); }
+                    else if (own.SpikesLayers > 0) { own.SpikesLayers = 0; ev.Add(new BattleEvent3(s.Turn, BattleEventKind.Hazard, Id(a), detail: "rapid-spin-cleared-spikes")); }
                     else if (own.ToxicSpikesLayers > 0) { own.ToxicSpikesLayers = 0; ev.Add(new BattleEvent3(s.Turn, BattleEventKind.Hazard, Id(a), detail: "rapid-spin-cleared-toxic-spikes")); }
                     else if (own.StealthRock) { own.StealthRock = false; ev.Add(new BattleEvent3(s.Turn, BattleEventKind.Hazard, Id(a), detail: "rapid-spin-cleared-stealth-rock")); }
                 }
@@ -282,8 +285,8 @@ namespace Roguelite.Gameplay.Phase3
                         ev.Add(new BattleEvent3(s.Turn, BattleEventKind.Status, Id(p), detail: "shed-skin-cured"));
                     }
 
-                    if (p.Hp > 0 && p.Ingrained && !Has(p, "magic-guard") && p.HealBlockTurns == 0) Heal(p, Math.Max(1, maxHp / 16) * (p.HeldItemId == "big-root" ? 130 : 100) / 100, "ingrain-heal");
-                    if (p.Hp > 0 && p.AquaRing && !Has(p, "magic-guard") && p.HealBlockTurns == 0) Heal(p, Math.Max(1, maxHp / 16) * (p.HeldItemId == "big-root" ? 130 : 100) / 100, "aqua-ring-heal");
+                    if (p.Hp > 0 && p.Ingrained && p.HealBlockTurns == 0) Heal(p, Math.Max(1, maxHp / 16) * (p.HeldItemId == "big-root" ? 130 : 100) / 100, "ingrain-heal");
+                    if (p.Hp > 0 && p.AquaRing && p.HealBlockTurns == 0) Heal(p, Math.Max(1, maxHp / 16) * (p.HeldItemId == "big-root" ? 130 : 100) / 100, "aqua-ring-heal");
                     if (p.Hp > 0 && WeatherEffective(s)) ApplyWeatherTurnEffect(p, maxHp);
                     if (p.Hp > 0 && p.LeechSeedSourceSide >= 0 && p.LeechSeedSourceSide != (int)side && !Has(p, "magic-guard"))
                     {

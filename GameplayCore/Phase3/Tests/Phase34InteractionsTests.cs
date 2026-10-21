@@ -11,9 +11,9 @@ namespace Roguelite.Phase3.Tests
         private static BattleMove Wrap() => new BattleMove("wrap", Element.Normal, Category.Physical, 15, 100, 20, BattleMoveEffect.Bind, effectChance: 100, generationIntroduced: 1);
         private static BattleMove Spin() => new BattleMove("rapid-spin", Element.Normal, Category.Physical, 20, 100, 40, BattleMoveEffect.RapidSpin);
         private static AdvancedPokemon WithState(AdvancedPokemon p, int? hp = null, bool ingrained = false, bool aquaRing = false, int healBlock = 0,
-            int bindingTurns = 0, int bindingSide = -1, Guid bindingSource = default, string? bindingMove = null, string? item = null, bool abilitySuppressed = false)
+            int bindingTurns = 0, int bindingSide = -1, Guid bindingSource = default, string? bindingMove = null, string? item = null, bool abilitySuppressed = false, int seedSide = -1)
             => new AdvancedPokemon(p.Record, p.Moves, p.IsMale, p.IsGenderless, p.AbilityId, hp ?? p.Hp, p.Condition, p.ConditionCounter, p.ToxicCounter,
-                pp: p.Pp, stages: p.Stages, ingrained: ingrained, aquaRing: aquaRing, healBlockTurns: healBlock, bindingTurns: bindingTurns,
+                pp: p.Pp, stages: p.Stages, ingrained: ingrained, aquaRing: aquaRing, healBlockTurns: healBlock, leechSeedSourceSide: seedSide, bindingTurns: bindingTurns,
                 bindingSourceSide: bindingSide, bindingSourceIndividualId: bindingSource, bindingMoveId: bindingMove, heldItemId: item, abilitySuppressed: abilitySuppressed);
 
         [Fact]
@@ -47,6 +47,42 @@ namespace Roguelite.Phase3.Tests
             var rooted = WithState(F.Mon(3), ingrained: true);
             var rootedState = new AdvancedBattleState(new[] { rooted, F.Mon(4) }, new[] { F.Mon(5) }, 11, F.Id(903));
             Assert.Throws<InvalidOperationException>(() => AdvancedBattleEngine.ResolveTurn(rootedState, BattleAction3.Switch(1), BattleAction3.Move(0)));
+        }
+
+        [Fact]
+        public void RapidSpinClearsOnlyTheFirstApplicableHgssConditionPerUse()
+        {
+            var spinner = WithState(F.Mon(1, moves: new[] { Spin() }), bindingTurns: 3,
+                bindingSide: (int)Side.Opponent, bindingSource: F.Id(2), bindingMove: "wrap", seedSide: (int)Side.Opponent);
+            var state = new AdvancedBattleState(new[] { spinner }, new[] { F.Mon(2) }, 101, F.Id(909),
+                playerConditions: new SideConditions(spikesLayers: 1, toxicSpikesLayers: 1, stealthRock: true));
+
+            var binding = AdvancedBattleEngine.ResolveTurn(state, BattleAction3.Move(0), BattleAction3.Move(0));
+            Assert.Contains(binding.Events, e => e.Detail == "rapid-spin-cleared-binding");
+            Assert.DoesNotContain(binding.Events, e => e.Detail == "rapid-spin-cleared-leech-seed");
+            Assert.Equal((int)Side.Opponent, binding.State.Active(Side.Player).LeechSeedSourceSide);
+            Assert.Equal(1, binding.State.Conditions(Side.Player).SpikesLayers);
+            Assert.Equal(1, binding.State.Conditions(Side.Player).ToxicSpikesLayers);
+            Assert.True(binding.State.Conditions(Side.Player).StealthRock);
+
+            var seed = AdvancedBattleEngine.ResolveTurn(binding.State, BattleAction3.Move(0), BattleAction3.Move(0));
+            Assert.Contains(seed.Events, e => e.Detail == "rapid-spin-cleared-leech-seed");
+            Assert.Equal(1, seed.State.Conditions(Side.Player).SpikesLayers);
+
+            var spikes = AdvancedBattleEngine.ResolveTurn(seed.State, BattleAction3.Move(0), BattleAction3.Move(0));
+            Assert.Contains(spikes.Events, e => e.Detail == "rapid-spin-cleared-spikes");
+            Assert.Equal(0, spikes.State.Conditions(Side.Player).SpikesLayers);
+            Assert.Equal(1, spikes.State.Conditions(Side.Player).ToxicSpikesLayers);
+            Assert.True(spikes.State.Conditions(Side.Player).StealthRock);
+
+            var toxicSpikes = AdvancedBattleEngine.ResolveTurn(spikes.State, BattleAction3.Move(0), BattleAction3.Move(0));
+            Assert.Contains(toxicSpikes.Events, e => e.Detail == "rapid-spin-cleared-toxic-spikes");
+            Assert.Equal(0, toxicSpikes.State.Conditions(Side.Player).ToxicSpikesLayers);
+            Assert.True(toxicSpikes.State.Conditions(Side.Player).StealthRock);
+
+            var stealthRock = AdvancedBattleEngine.ResolveTurn(toxicSpikes.State, BattleAction3.Move(0), BattleAction3.Move(0));
+            Assert.Contains(stealthRock.Events, e => e.Detail == "rapid-spin-cleared-stealth-rock");
+            Assert.False(stealthRock.State.Conditions(Side.Player).StealthRock);
         }
 
         [Fact]
@@ -100,6 +136,16 @@ namespace Roguelite.Phase3.Tests
             var result = AdvancedBattleEngine.ResolveTurn(state, BattleAction3.Move(0), BattleAction3.Move(0));
             Assert.Contains(result.Events, e => e.Target == F.Id(1).ToString("N") && e.Detail == "sandstorm-residual");
             Assert.Equal(BattleCanonical.Hash(result.State), BattleCanonical.Hash(result.State.DeepCopy()));
+        }
+
+        [Fact]
+        public void MagicGuardDoesNotSuppressIngrainOrAquaRingHealing()
+        {
+            int maxHp = HgssRules.CalculateStats(F.Mon(1).Record)[Stat.Hp];
+            var protectedHealer = WithState(F.Mon(1, ability: "magic-guard"), hp: maxHp - 20, ingrained: true, aquaRing: true);
+            var result = AdvancedBattleEngine.ResolveTurn(F.State(protectedHealer, F.Mon(2), 19), BattleAction3.Move(0), BattleAction3.Move(0));
+            Assert.Contains(result.Events, e => e.Detail == "ingrain-heal");
+            Assert.Contains(result.Events, e => e.Detail == "aqua-ring-heal");
         }
     }
 }

@@ -74,9 +74,25 @@ static object RunResidualOrderProof(uint seed)
     return new { seed, events = step.Events.Select(e => new { e.Turn, kind = e.Kind.ToString(), e.Actor, e.Target, e.Detail, e.Amount, e.Roll }), stateHash = step.StateHash, finalHash = BattleCanonical.Hash(step.State) };
 }
 
+static object RunRapidSpinPrecedenceProof(uint seed)
+{
+    var species = new SpeciesDefinition("proof-spin", "phase3-4-proof-1", new SixStats(100, 100, 100, 100, 100, 100), Element.Normal);
+    var record = new PokemonRecord(Guid.Parse("60000000-0000-0000-0000-000000000001"), species, 30, SixStats.Uniform(20), SixStats.Uniform(0), Nature.Hardy, Ability.NoneFixture, new[] { PilotCatalog.Tackle });
+    var spin = new BattleMove("proof-rapid-spin", Element.Normal, Category.Physical, 20, 100, 40, BattleMoveEffect.RapidSpin);
+    var spinner = new AdvancedPokemon(record, new[] { spin }, abilityId: "none", bindingTurns: 3, bindingSourceSide: (int)Side.Opponent,
+        bindingSourceIndividualId: Guid.Parse("60000000-0000-0000-0000-000000000002"), bindingMoveId: "proof-wrap", leechSeedSourceSide: (int)Side.Opponent);
+    var opponentRecord = new PokemonRecord(Guid.Parse("60000000-0000-0000-0000-000000000002"), species, 30, SixStats.Uniform(20), SixStats.Uniform(0), Nature.Hardy, Ability.NoneFixture, new[] { PilotCatalog.Tackle });
+    var opponent = new AdvancedPokemon(opponentRecord, new[] { new BattleMove("proof-counterhit", Element.Normal, Category.Physical, 1, 100, 10) }, abilityId: "none");
+    var state = new AdvancedBattleState(new[] { spinner }, new[] { opponent }, seed, Guid.Parse("60000000-0000-0000-0000-000000000099"),
+        playerConditions: new SideConditions(spikesLayers: 1, toxicSpikesLayers: 1, stealthRock: true));
+    var step = AdvancedBattleEngine.ResolveTurn(state, BattleAction3.Move(0), BattleAction3.Move(0));
+    return new { seed, cleared = step.Events.Where(e => e.Detail.StartsWith("rapid-spin-cleared-", StringComparison.Ordinal)).Select(e => e.Detail), remainingBinding = step.State.Active(Side.Player).BindingTurns,
+        remainingSeed = step.State.Active(Side.Player).LeechSeedSourceSide, remainingHazards = step.State.Conditions(Side.Player), eventHash = step.StateHash };
+}
+
 var output = new
 {
-    proofVersion = "phase3.2-battle-proof-1.0.0",
+    proofVersion = "phase3.4-battle-proof-1.0.0",
     engineAssembly = typeof(AdvancedBattleEngine).Assembly.GetName().Name,
     effectRegistryVersion = EffectRegistry.Foundational.Version,
     effectRegistryHash = EffectRegistry.Foundational.ContentHash,
@@ -84,6 +100,7 @@ var output = new
     abilityRegistryHash = AbilityRegistry.ContentHash,
     demonstrations = new[] { Run(CompatibilityProfile.Hgss, 2026), Run(CompatibilityProfile.CrossGenerationCatalog, 2026) },
     completedHgssEncounter = RunCompleteEncounter(8128),
-    residualOrderingExample = RunResidualOrderProof(2048)
+    residualOrderingExample = RunResidualOrderProof(2048),
+    rapidSpinPrecedenceExample = RunRapidSpinPrecedenceProof(4096)
 };
 Console.WriteLine(JsonSerializer.Serialize(output, new JsonSerializerOptions { WriteIndented = true }));
