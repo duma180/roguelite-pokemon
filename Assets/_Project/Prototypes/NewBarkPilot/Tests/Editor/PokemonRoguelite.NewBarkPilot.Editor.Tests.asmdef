@@ -1,0 +1,1 @@
+{"name":"PokemonRoguelite.NewBarkPilot.Editor.Tests","rootNamespace":"PokemonRoguelite.NewBarkPilot.Tests","references":["PokemonRoguelite.NewBarkPilot","PokemonRoguelite.NewBarkPilot.Editor"],"includePlatforms":["Editor"],"overrideReferences":true,"precompiledReferences":["nunit.framework.dll","Newtonsoft.Json.dll"],"optionalUnityReferences":["TestAssemblies"]}

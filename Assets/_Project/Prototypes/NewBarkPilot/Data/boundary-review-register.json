@@ -1,0 +1,4382 @@
+{
+  "basis": "Phase1B.1 investigation accepted; these exemptions document source structure, not visual fidelity.",
+  "entries": [
+    {
+      "decision": "document-blocked-source-elevation-step",
+      "from": "hgss:IPKE:r0:matrix:0:cell:20:11",
+      "fromBlocked": true,
+      "fromSurfaces": [
+        {
+          "plate": 0,
+          "yUnity": -0.0
+        }
+      ],
+      "id": "20,11:south:00",
+      "nearestDeltaUnity": 1.0,
+      "reason": "Zero-height source filler BDHC versus source route/town BDHC at0.5 or1 Unity; at least one static collision bit set. Model altitude is not a traversal offset.",
+      "to": "hgss:IPKE:r0:matrix:0:cell:20:12",
+      "toBlocked": true,
+      "toSurfaces": [
+        {
+          "plate": 0,
+          "yUnity": 1.0
+        }
+      ],
+      "visualStatus": "unresolved; no faithful visual-topology or pivot approval"
+    },
+    {
+      "decision": "document-blocked-source-elevation-step",
+      "from": "hgss:IPKE:r0:matrix:0:cell:20:11",
+      "fromBlocked": true,
+      "fromSurfaces": [
+        {
+          "plate": 0,
+          "yUnity": -0.0
+        }
+      ],
+      "id": "20,11:south:01",
+      "nearestDeltaUnity": 1.0,
+      "reason": "Zero-height source filler BDHC versus source route/town BDHC at0.5 or1 Unity; at least one static collision bit set. Model altitude is not a traversal offset.",
+      "to": "hgss:IPKE:r0:matrix:0:cell:20:12",
+      "toBlocked": true,
+      "toSurfaces": [
+        {
+          "plate": 0,
+          "yUnity": 1.0
+        }
+      ],
+      "visualStatus": "unresolved; no faithful visual-topology or pivot approval"
+    },
+    {
+      "decision": "document-blocked-source-elevation-step",
+      "from": "hgss:IPKE:r0:matrix:0:cell:20:11",
+      "fromBlocked": true,
+      "fromSurfaces": [
+        {
+          "plate": 0,
+          "yUnity": -0.0
+        }
+      ],
+      "id": "20,11:south:02",
+      "nearestDeltaUnity": 1.0,
+      "reason": "Zero-height source filler BDHC versus source route/town BDHC at0.5 or1 Unity; at least one static collision bit set. Model altitude is not a traversal offset.",
+      "to": "hgss:IPKE:r0:matrix:0:cell:20:12",
+      "toBlocked": true,
+      "toSurfaces": [
+        {
+          "plate": 0,
+          "yUnity": 1.0
+        }
+      ],
+      "visualStatus": "unresolved; no faithful visual-topology or pivot approval"
+    },
+    {
+      "decision": "document-blocked-source-elevation-step",
+      "from": "hgss:IPKE:r0:matrix:0:cell:20:11",
+      "fromBlocked": true,
+      "fromSurfaces": [
+        {
+          "plate": 0,
+          "yUnity": -0.0
+        }
+      ],
+      "id": "20,11:south:03",
+      "nearestDeltaUnity": 1.0,
+      "reason": "Zero-height source filler BDHC versus source route/town BDHC at0.5 or1 Unity; at least one static collision bit set. Model altitude is not a traversal offset.",
+      "to": "hgss:IPKE:r0:matrix:0:cell:20:12",
+      "toBlocked": true,
+      "toSurfaces": [
+        {
+          "plate": 0,
+          "yUnity": 1.0
+        }
+      ],
+      "visualStatus": "unresolved; no faithful visual-topology or pivot approval"
+    },
+    {
+      "decision": "document-blocked-source-elevation-step",
+      "from": "hgss:IPKE:r0:matrix:0:cell:20:11",
+      "fromBlocked": true,
+      "fromSurfaces": [
+        {
+          "plate": 0,
+          "yUnity": -0.0
+        }
+      ],
+      "id": "20,11:south:04",
+      "nearestDeltaUnity": 1.0,
+      "reason": "Zero-height source filler BDHC versus source route/town BDHC at0.5 or1 Unity; at least one static collision bit set. Model altitude is not a traversal offset.",
+      "to": "hgss:IPKE:r0:matrix:0:cell:20:12",
+      "toBlocked": true,
+      "toSurfaces": [
+        {
+          "plate": 0,
+          "yUnity": 1.0
+        }
+      ],
+      "visualStatus": "unresolved; no faithful visual-topology or pivot approval"
+    },
+    {
+      "decision": "document-blocked-source-elevation-step",
+      "from": "hgss:IPKE:r0:matrix:0:cell:20:11",
+      "fromBlocked": true,
+      "fromSurfaces": [
+        {
+          "plate": 0,
+          "yUnity": -0.0
+        }
+      ],
+      "id": "20,11:south:05",
+      "nearestDeltaUnity": 1.0,
+      "reason": "Zero-height source filler BDHC versus source route/town BDHC at0.5 or1 Unity; at least one static collision bit set. Model altitude is not a traversal offset.",
+      "to": "hgss:IPKE:r0:matrix:0:cell:20:12",
+      "toBlocked": true,
+      "toSurfaces": [
+        {
+          "plate": 0,
+          "yUnity": 1.0
+        }
+      ],
+      "visualStatus": "unresolved; no faithful visual-topology or pivot approval"
+    },
+    {
+      "decision": "document-blocked-source-elevation-step",
+      "from": "hgss:IPKE:r0:matrix:0:cell:20:11",
+      "fromBlocked": true,
+      "fromSurfaces": [
+        {
+          "plate": 0,
+          "yUnity": -0.0
+        }
+      ],
+      "id": "20,11:south:06",
+      "nearestDeltaUnity": 1.0,
+      "reason": "Zero-height source filler BDHC versus source route/town BDHC at0.5 or1 Unity; at least one static collision bit set. Model altitude is not a traversal offset.",
+      "to": "hgss:IPKE:r0:matrix:0:cell:20:12",
+      "toBlocked": true,
+      "toSurfaces": [
+        {
+          "plate": 0,
+          "yUnity": 1.0
+        }
+      ],
+      "visualStatus": "unresolved; no faithful visual-topology or pivot approval"
+    },
+    {
+      "decision": "document-blocked-source-elevation-step",
+      "from": "hgss:IPKE:r0:matrix:0:cell:20:11",
+      "fromBlocked": true,
+      "fromSurfaces": [
+        {
+          "plate": 0,
+          "yUnity": -0.0
+        }
+      ],
+      "id": "20,11:south:07",
+      "nearestDeltaUnity": 1.0,
+      "reason": "Zero-height source filler BDHC versus source route/town BDHC at0.5 or1 Unity; at least one static collision bit set. Model altitude is not a traversal offset.",
+      "to": "hgss:IPKE:r0:matrix:0:cell:20:12",
+      "toBlocked": true,
+      "toSurfaces": [
+        {
+          "plate": 0,
+          "yUnity": 1.0
+        }
+      ],
+      "visualStatus": "unresolved; no faithful visual-topology or pivot approval"
+    },
+    {
+      "decision": "document-blocked-source-elevation-step",
+      "from": "hgss:IPKE:r0:matrix:0:cell:20:11",
+      "fromBlocked": true,
+      "fromSurfaces": [
+        {
+          "plate": 0,
+          "yUnity": -0.0
+        }
+      ],
+      "id": "20,11:south:08",
+      "nearestDeltaUnity": 1.0,
+      "reason": "Zero-height source filler BDHC versus source route/town BDHC at0.5 or1 Unity; at least one static collision bit set. Model altitude is not a traversal offset.",
+      "to": "hgss:IPKE:r0:matrix:0:cell:20:12",
+      "toBlocked": true,
+      "toSurfaces": [
+        {
+          "plate": 12,
+          "yUnity": 1.0
+        }
+      ],
+      "visualStatus": "unresolved; no faithful visual-topology or pivot approval"
+    },
+    {
+      "decision": "document-blocked-source-elevation-step",
+      "from": "hgss:IPKE:r0:matrix:0:cell:20:11",
+      "fromBlocked": true,
+      "fromSurfaces": [
+        {
+          "plate": 0,
+          "yUnity": -0.0
+        }
+      ],
+      "id": "20,11:south:09",
+      "nearestDeltaUnity": 1.0,
+      "reason": "Zero-height source filler BDHC versus source route/town BDHC at0.5 or1 Unity; at least one static collision bit set. Model altitude is not a traversal offset.",
+      "to": "hgss:IPKE:r0:matrix:0:cell:20:12",
+      "toBlocked": true,
+      "toSurfaces": [
+        {
+          "plate": 12,
+          "yUnity": 1.0
+        }
+      ],
+      "visualStatus": "unresolved; no faithful visual-topology or pivot approval"
+    },
+    {
+      "decision": "document-blocked-source-elevation-step",
+      "from": "hgss:IPKE:r0:matrix:0:cell:20:11",
+      "fromBlocked": true,
+      "fromSurfaces": [
+        {
+          "plate": 0,
+          "yUnity": -0.0
+        }
+      ],
+      "id": "20,11:south:10",
+      "nearestDeltaUnity": 1.0,
+      "reason": "Zero-height source filler BDHC versus source route/town BDHC at0.5 or1 Unity; at least one static collision bit set. Model altitude is not a traversal offset.",
+      "to": "hgss:IPKE:r0:matrix:0:cell:20:12",
+      "toBlocked": true,
+      "toSurfaces": [
+        {
+          "plate": 12,
+          "yUnity": 1.0
+        }
+      ],
+      "visualStatus": "unresolved; no faithful visual-topology or pivot approval"
+    },
+    {
+      "decision": "document-blocked-source-elevation-step",
+      "from": "hgss:IPKE:r0:matrix:0:cell:20:11",
+      "fromBlocked": true,
+      "fromSurfaces": [
+        {
+          "plate": 0,
+          "yUnity": -0.0
+        }
+      ],
+      "id": "20,11:south:11",
+      "nearestDeltaUnity": 1.0,
+      "reason": "Zero-height source filler BDHC versus source route/town BDHC at0.5 or1 Unity; at least one static collision bit set. Model altitude is not a traversal offset.",
+      "to": "hgss:IPKE:r0:matrix:0:cell:20:12",
+      "toBlocked": true,
+      "toSurfaces": [
+        {
+          "plate": 12,
+          "yUnity": 1.0
+        }
+      ],
+      "visualStatus": "unresolved; no faithful visual-topology or pivot approval"
+    },
+    {
+      "decision": "document-blocked-source-elevation-step",
+      "from": "hgss:IPKE:r0:matrix:0:cell:20:11",
+      "fromBlocked": true,
+      "fromSurfaces": [
+        {
+          "plate": 0,
+          "yUnity": -0.0
+        }
+      ],
+      "id": "20,11:south:12",
+      "nearestDeltaUnity": 1.0,
+      "reason": "Zero-height source filler BDHC versus source route/town BDHC at0.5 or1 Unity; at least one static collision bit set. Model altitude is not a traversal offset.",
+      "to": "hgss:IPKE:r0:matrix:0:cell:20:12",
+      "toBlocked": true,
+      "toSurfaces": [
+        {
+          "plate": 12,
+          "yUnity": 1.0
+        }
+      ],
+      "visualStatus": "unresolved; no faithful visual-topology or pivot approval"
+    },
+    {
+      "decision": "document-blocked-source-elevation-step",
+      "from": "hgss:IPKE:r0:matrix:0:cell:20:11",
+      "fromBlocked": true,
+      "fromSurfaces": [
+        {
+          "plate": 0,
+          "yUnity": -0.0
+        }
+      ],
+      "id": "20,11:south:13",
+      "nearestDeltaUnity": 1.0,
+      "reason": "Zero-height source filler BDHC versus source route/town BDHC at0.5 or1 Unity; at least one static collision bit set. Model altitude is not a traversal offset.",
+      "to": "hgss:IPKE:r0:matrix:0:cell:20:12",
+      "toBlocked": true,
+      "toSurfaces": [
+        {
+          "plate": 12,
+          "yUnity": 1.0
+        }
+      ],
+      "visualStatus": "unresolved; no faithful visual-topology or pivot approval"
+    },
+    {
+      "decision": "document-blocked-source-elevation-step",
+      "from": "hgss:IPKE:r0:matrix:0:cell:20:11",
+      "fromBlocked": true,
+      "fromSurfaces": [
+        {
+          "plate": 0,
+          "yUnity": -0.0
+        }
+      ],
+      "id": "20,11:south:14",
+      "nearestDeltaUnity": 1.0,
+      "reason": "Zero-height source filler BDHC versus source route/town BDHC at0.5 or1 Unity; at least one static collision bit set. Model altitude is not a traversal offset.",
+      "to": "hgss:IPKE:r0:matrix:0:cell:20:12",
+      "toBlocked": true,
+      "toSurfaces": [
+        {
+          "plate": 12,
+          "yUnity": 1.0
+        }
+      ],
+      "visualStatus": "unresolved; no faithful visual-topology or pivot approval"
+    },
+    {
+      "decision": "document-blocked-source-elevation-step",
+      "from": "hgss:IPKE:r0:matrix:0:cell:20:11",
+      "fromBlocked": true,
+      "fromSurfaces": [
+        {
+          "plate": 0,
+          "yUnity": -0.0
+        }
+      ],
+      "id": "20,11:south:15",
+      "nearestDeltaUnity": 1.0,
+      "reason": "Zero-height source filler BDHC versus source route/town BDHC at0.5 or1 Unity; at least one static collision bit set. Model altitude is not a traversal offset.",
+      "to": "hgss:IPKE:r0:matrix:0:cell:20:12",
+      "toBlocked": true,
+      "toSurfaces": [
+        {
+          "plate": 12,
+          "yUnity": 1.0
+        }
+      ],
+      "visualStatus": "unresolved; no faithful visual-topology or pivot approval"
+    },
+    {
+      "decision": "document-blocked-source-elevation-step",
+      "from": "hgss:IPKE:r0:matrix:0:cell:20:11",
+      "fromBlocked": true,
+      "fromSurfaces": [
+        {
+          "plate": 0,
+          "yUnity": -0.0
+        }
+      ],
+      "id": "20,11:south:16",
+      "nearestDeltaUnity": 1.0,
+      "reason": "Zero-height source filler BDHC versus source route/town BDHC at0.5 or1 Unity; at least one static collision bit set. Model altitude is not a traversal offset.",
+      "to": "hgss:IPKE:r0:matrix:0:cell:20:12",
+      "toBlocked": true,
+      "toSurfaces": [
+        {
+          "plate": 8,
+          "yUnity": 1.0
+        }
+      ],
+      "visualStatus": "unresolved; no faithful visual-topology or pivot approval"
+    },
+    {
+      "decision": "document-blocked-source-elevation-step",
+      "from": "hgss:IPKE:r0:matrix:0:cell:20:11",
+      "fromBlocked": true,
+      "fromSurfaces": [
+        {
+          "plate": 0,
+          "yUnity": -0.0
+        }
+      ],
+      "id": "20,11:south:17",
+      "nearestDeltaUnity": 1.0,
+      "reason": "Zero-height source filler BDHC versus source route/town BDHC at0.5 or1 Unity; at least one static collision bit set. Model altitude is not a traversal offset.",
+      "to": "hgss:IPKE:r0:matrix:0:cell:20:12",
+      "toBlocked": true,
+      "toSurfaces": [
+        {
+          "plate": 8,
+          "yUnity": 1.0
+        }
+      ],
+      "visualStatus": "unresolved; no faithful visual-topology or pivot approval"
+    },
+    {
+      "decision": "document-blocked-source-elevation-step",
+      "from": "hgss:IPKE:r0:matrix:0:cell:20:11",
+      "fromBlocked": true,
+      "fromSurfaces": [
+        {
+          "plate": 0,
+          "yUnity": -0.0
+        }
+      ],
+      "id": "20,11:south:18",
+      "nearestDeltaUnity": 1.0,
+      "reason": "Zero-height source filler BDHC versus source route/town BDHC at0.5 or1 Unity; at least one static collision bit set. Model altitude is not a traversal offset.",
+      "to": "hgss:IPKE:r0:matrix:0:cell:20:12",
+      "toBlocked": true,
+      "toSurfaces": [
+        {
+          "plate": 8,
+          "yUnity": 1.0
+        }
+      ],
+      "visualStatus": "unresolved; no faithful visual-topology or pivot approval"
+    },
+    {
+      "decision": "document-blocked-source-elevation-step",
+      "from": "hgss:IPKE:r0:matrix:0:cell:20:11",
+      "fromBlocked": true,
+      "fromSurfaces": [
+        {
+          "plate": 0,
+          "yUnity": -0.0
+        }
+      ],
+      "id": "20,11:south:19",
+      "nearestDeltaUnity": 1.0,
+      "reason": "Zero-height source filler BDHC versus source route/town BDHC at0.5 or1 Unity; at least one static collision bit set. Model altitude is not a traversal offset.",
+      "to": "hgss:IPKE:r0:matrix:0:cell:20:12",
+      "toBlocked": true,
+      "toSurfaces": [
+        {
+          "plate": 8,
+          "yUnity": 1.0
+        }
+      ],
+      "visualStatus": "unresolved; no faithful visual-topology or pivot approval"
+    },
+    {
+      "decision": "document-blocked-source-elevation-step",
+      "from": "hgss:IPKE:r0:matrix:0:cell:20:11",
+      "fromBlocked": true,
+      "fromSurfaces": [
+        {
+          "plate": 0,
+          "yUnity": -0.0
+        }
+      ],
+      "id": "20,11:south:20",
+      "nearestDeltaUnity": 1.0,
+      "reason": "Zero-height source filler BDHC versus source route/town BDHC at0.5 or1 Unity; at least one static collision bit set. Model altitude is not a traversal offset.",
+      "to": "hgss:IPKE:r0:matrix:0:cell:20:12",
+      "toBlocked": true,
+      "toSurfaces": [
+        {
+          "plate": 8,
+          "yUnity": 1.0
+        }
+      ],
+      "visualStatus": "unresolved; no faithful visual-topology or pivot approval"
+    },
+    {
+      "decision": "document-blocked-source-elevation-step",
+      "from": "hgss:IPKE:r0:matrix:0:cell:20:11",
+      "fromBlocked": true,
+      "fromSurfaces": [
+        {
+          "plate": 0,
+          "yUnity": -0.0
+        }
+      ],
+      "id": "20,11:south:21",
+      "nearestDeltaUnity": 1.0,
+      "reason": "Zero-height source filler BDHC versus source route/town BDHC at0.5 or1 Unity; at least one static collision bit set. Model altitude is not a traversal offset.",
+      "to": "hgss:IPKE:r0:matrix:0:cell:20:12",
+      "toBlocked": true,
+      "toSurfaces": [
+        {
+          "plate": 8,
+          "yUnity": 1.0
+        }
+      ],
+      "visualStatus": "unresolved; no faithful visual-topology or pivot approval"
+    },
+    {
+      "decision": "document-blocked-source-elevation-step",
+      "from": "hgss:IPKE:r0:matrix:0:cell:20:11",
+      "fromBlocked": true,
+      "fromSurfaces": [
+        {
+          "plate": 0,
+          "yUnity": -0.0
+        }
+      ],
+      "id": "20,11:south:22",
+      "nearestDeltaUnity": 1.0,
+      "reason": "Zero-height source filler BDHC versus source route/town BDHC at0.5 or1 Unity; at least one static collision bit set. Model altitude is not a traversal offset.",
+      "to": "hgss:IPKE:r0:matrix:0:cell:20:12",
+      "toBlocked": true,
+      "toSurfaces": [
+        {
+          "plate": 8,
+          "yUnity": 1.0
+        }
+      ],
+      "visualStatus": "unresolved; no faithful visual-topology or pivot approval"
+    },
+    {
+      "decision": "document-blocked-source-elevation-step",
+      "from": "hgss:IPKE:r0:matrix:0:cell:20:11",
+      "fromBlocked": true,
+      "fromSurfaces": [
+        {
+          "plate": 0,
+          "yUnity": -0.0
+        }
+      ],
+      "id": "20,11:south:23",
+      "nearestDeltaUnity": 1.0,
+      "reason": "Zero-height source filler BDHC versus source route/town BDHC at0.5 or1 Unity; at least one static collision bit set. Model altitude is not a traversal offset.",
+      "to": "hgss:IPKE:r0:matrix:0:cell:20:12",
+      "toBlocked": true,
+      "toSurfaces": [
+        {
+          "plate": 8,
+          "yUnity": 1.0
+        }
+      ],
+      "visualStatus": "unresolved; no faithful visual-topology or pivot approval"
+    },
+    {
+      "decision": "document-blocked-source-elevation-step",
+      "from": "hgss:IPKE:r0:matrix:0:cell:20:11",
+      "fromBlocked": true,
+      "fromSurfaces": [
+        {
+          "plate": 0,
+          "yUnity": -0.0
+        }
+      ],
+      "id": "20,11:south:24",
+      "nearestDeltaUnity": 1.0,
+      "reason": "Zero-height source filler BDHC versus source route/town BDHC at0.5 or1 Unity; at least one static collision bit set. Model altitude is not a traversal offset.",
+      "to": "hgss:IPKE:r0:matrix:0:cell:20:12",
+      "toBlocked": true,
+      "toSurfaces": [
+        {
+          "plate": 4,
+          "yUnity": 1.0
+        }
+      ],
+      "visualStatus": "unresolved; no faithful visual-topology or pivot approval"
+    },
+    {
+      "decision": "document-blocked-source-elevation-step",
+      "from": "hgss:IPKE:r0:matrix:0:cell:20:11",
+      "fromBlocked": true,
+      "fromSurfaces": [
+        {
+          "plate": 0,
+          "yUnity": -0.0
+        }
+      ],
+      "id": "20,11:south:25",
+      "nearestDeltaUnity": 1.0,
+      "reason": "Zero-height source filler BDHC versus source route/town BDHC at0.5 or1 Unity; at least one static collision bit set. Model altitude is not a traversal offset.",
+      "to": "hgss:IPKE:r0:matrix:0:cell:20:12",
+      "toBlocked": true,
+      "toSurfaces": [
+        {
+          "plate": 4,
+          "yUnity": 1.0
+        }
+      ],
+      "visualStatus": "unresolved; no faithful visual-topology or pivot approval"
+    },
+    {
+      "decision": "document-blocked-source-elevation-step",
+      "from": "hgss:IPKE:r0:matrix:0:cell:20:11",
+      "fromBlocked": true,
+      "fromSurfaces": [
+        {
+          "plate": 0,
+          "yUnity": -0.0
+        }
+      ],
+      "id": "20,11:south:26",
+      "nearestDeltaUnity": 1.0,
+      "reason": "Zero-height source filler BDHC versus source route/town BDHC at0.5 or1 Unity; at least one static collision bit set. Model altitude is not a traversal offset.",
+      "to": "hgss:IPKE:r0:matrix:0:cell:20:12",
+      "toBlocked": true,
+      "toSurfaces": [
+        {
+          "plate": 4,
+          "yUnity": 1.0
+        }
+      ],
+      "visualStatus": "unresolved; no faithful visual-topology or pivot approval"
+    },
+    {
+      "decision": "document-blocked-source-elevation-step",
+      "from": "hgss:IPKE:r0:matrix:0:cell:20:11",
+      "fromBlocked": true,
+      "fromSurfaces": [
+        {
+          "plate": 0,
+          "yUnity": -0.0
+        }
+      ],
+      "id": "20,11:south:27",
+      "nearestDeltaUnity": 1.0,
+      "reason": "Zero-height source filler BDHC versus source route/town BDHC at0.5 or1 Unity; at least one static collision bit set. Model altitude is not a traversal offset.",
+      "to": "hgss:IPKE:r0:matrix:0:cell:20:12",
+      "toBlocked": true,
+      "toSurfaces": [
+        {
+          "plate": 4,
+          "yUnity": 1.0
+        }
+      ],
+      "visualStatus": "unresolved; no faithful visual-topology or pivot approval"
+    },
+    {
+      "decision": "document-blocked-source-elevation-step",
+      "from": "hgss:IPKE:r0:matrix:0:cell:20:11",
+      "fromBlocked": true,
+      "fromSurfaces": [
+        {
+          "plate": 0,
+          "yUnity": -0.0
+        }
+      ],
+      "id": "20,11:south:28",
+      "nearestDeltaUnity": 1.0,
+      "reason": "Zero-height source filler BDHC versus source route/town BDHC at0.5 or1 Unity; at least one static collision bit set. Model altitude is not a traversal offset.",
+      "to": "hgss:IPKE:r0:matrix:0:cell:20:12",
+      "toBlocked": true,
+      "toSurfaces": [
+        {
+          "plate": 4,
+          "yUnity": 1.0
+        }
+      ],
+      "visualStatus": "unresolved; no faithful visual-topology or pivot approval"
+    },
+    {
+      "decision": "document-blocked-source-elevation-step",
+      "from": "hgss:IPKE:r0:matrix:0:cell:20:11",
+      "fromBlocked": true,
+      "fromSurfaces": [
+        {
+          "plate": 0,
+          "yUnity": -0.0
+        }
+      ],
+      "id": "20,11:south:29",
+      "nearestDeltaUnity": 1.0,
+      "reason": "Zero-height source filler BDHC versus source route/town BDHC at0.5 or1 Unity; at least one static collision bit set. Model altitude is not a traversal offset.",
+      "to": "hgss:IPKE:r0:matrix:0:cell:20:12",
+      "toBlocked": true,
+      "toSurfaces": [
+        {
+          "plate": 4,
+          "yUnity": 1.0
+        }
+      ],
+      "visualStatus": "unresolved; no faithful visual-topology or pivot approval"
+    },
+    {
+      "decision": "document-blocked-source-elevation-step",
+      "from": "hgss:IPKE:r0:matrix:0:cell:20:11",
+      "fromBlocked": true,
+      "fromSurfaces": [
+        {
+          "plate": 0,
+          "yUnity": -0.0
+        }
+      ],
+      "id": "20,11:south:30",
+      "nearestDeltaUnity": 1.0,
+      "reason": "Zero-height source filler BDHC versus source route/town BDHC at0.5 or1 Unity; at least one static collision bit set. Model altitude is not a traversal offset.",
+      "to": "hgss:IPKE:r0:matrix:0:cell:20:12",
+      "toBlocked": true,
+      "toSurfaces": [
+        {
+          "plate": 4,
+          "yUnity": 1.0
+        }
+      ],
+      "visualStatus": "unresolved; no faithful visual-topology or pivot approval"
+    },
+    {
+      "decision": "document-blocked-source-elevation-step",
+      "from": "hgss:IPKE:r0:matrix:0:cell:20:11",
+      "fromBlocked": true,
+      "fromSurfaces": [
+        {
+          "plate": 0,
+          "yUnity": -0.0
+        }
+      ],
+      "id": "20,11:south:31",
+      "nearestDeltaUnity": 1.0,
+      "reason": "Zero-height source filler BDHC versus source route/town BDHC at0.5 or1 Unity; at least one static collision bit set. Model altitude is not a traversal offset.",
+      "to": "hgss:IPKE:r0:matrix:0:cell:20:12",
+      "toBlocked": true,
+      "toSurfaces": [
+        {
+          "plate": 4,
+          "yUnity": 1.0
+        }
+      ],
+      "visualStatus": "unresolved; no faithful visual-topology or pivot approval"
+    },
+    {
+      "decision": "document-blocked-source-elevation-step",
+      "from": "hgss:IPKE:r0:matrix:0:cell:20:12",
+      "fromBlocked": true,
+      "fromSurfaces": [
+        {
+          "plate": 3,
+          "yUnity": 1.0
+        }
+      ],
+      "id": "20,12:south:00",
+      "nearestDeltaUnity": 1.0,
+      "reason": "Zero-height source filler BDHC versus source route/town BDHC at0.5 or1 Unity; at least one static collision bit set. Model altitude is not a traversal offset.",
+      "to": "hgss:IPKE:r0:matrix:0:cell:20:13",
+      "toBlocked": true,
+      "toSurfaces": [
+        {
+          "plate": 0,
+          "yUnity": -0.0
+        }
+      ],
+      "visualStatus": "unresolved; no faithful visual-topology or pivot approval"
+    },
+    {
+      "decision": "document-blocked-source-elevation-step",
+      "from": "hgss:IPKE:r0:matrix:0:cell:20:12",
+      "fromBlocked": true,
+      "fromSurfaces": [
+        {
+          "plate": 3,
+          "yUnity": 1.0
+        }
+      ],
+      "id": "20,12:south:01",
+      "nearestDeltaUnity": 1.0,
+      "reason": "Zero-height source filler BDHC versus source route/town BDHC at0.5 or1 Unity; at least one static collision bit set. Model altitude is not a traversal offset.",
+      "to": "hgss:IPKE:r0:matrix:0:cell:20:13",
+      "toBlocked": true,
+      "toSurfaces": [
+        {
+          "plate": 0,
+          "yUnity": -0.0
+        }
+      ],
+      "visualStatus": "unresolved; no faithful visual-topology or pivot approval"
+    },
+    {
+      "decision": "document-blocked-source-elevation-step",
+      "from": "hgss:IPKE:r0:matrix:0:cell:20:12",
+      "fromBlocked": true,
+      "fromSurfaces": [
+        {
+          "plate": 3,
+          "yUnity": 1.0
+        }
+      ],
+      "id": "20,12:south:02",
+      "nearestDeltaUnity": 1.0,
+      "reason": "Zero-height source filler BDHC versus source route/town BDHC at0.5 or1 Unity; at least one static collision bit set. Model altitude is not a traversal offset.",
+      "to": "hgss:IPKE:r0:matrix:0:cell:20:13",
+      "toBlocked": true,
+      "toSurfaces": [
+        {
+          "plate": 0,
+          "yUnity": -0.0
+        }
+      ],
+      "visualStatus": "unresolved; no faithful visual-topology or pivot approval"
+    },
+    {
+      "decision": "document-blocked-source-elevation-step",
+      "from": "hgss:IPKE:r0:matrix:0:cell:20:12",
+      "fromBlocked": true,
+      "fromSurfaces": [
+        {
+          "plate": 3,
+          "yUnity": 1.0
+        }
+      ],
+      "id": "20,12:south:03",
+      "nearestDeltaUnity": 1.0,
+      "reason": "Zero-height source filler BDHC versus source route/town BDHC at0.5 or1 Unity; at least one static collision bit set. Model altitude is not a traversal offset.",
+      "to": "hgss:IPKE:r0:matrix:0:cell:20:13",
+      "toBlocked": true,
+      "toSurfaces": [
+        {
+          "plate": 0,
+          "yUnity": -0.0
+        }
+      ],
+      "visualStatus": "unresolved; no faithful visual-topology or pivot approval"
+    },
+    {
+      "decision": "document-blocked-source-elevation-step",
+      "from": "hgss:IPKE:r0:matrix:0:cell:20:12",
+      "fromBlocked": true,
+      "fromSurfaces": [
+        {
+          "plate": 3,
+          "yUnity": 1.0
+        }
+      ],
+      "id": "20,12:south:04",
+      "nearestDeltaUnity": 1.0,
+      "reason": "Zero-height source filler BDHC versus source route/town BDHC at0.5 or1 Unity; at least one static collision bit set. Model altitude is not a traversal offset.",
+      "to": "hgss:IPKE:r0:matrix:0:cell:20:13",
+      "toBlocked": true,
+      "toSurfaces": [
+        {
+          "plate": 0,
+          "yUnity": -0.0
+        }
+      ],
+      "visualStatus": "unresolved; no faithful visual-topology or pivot approval"
+    },
+    {
+      "decision": "document-blocked-source-elevation-step",
+      "from": "hgss:IPKE:r0:matrix:0:cell:20:12",
+      "fromBlocked": true,
+      "fromSurfaces": [
+        {
+          "plate": 3,
+          "yUnity": 1.0
+        }
+      ],
+      "id": "20,12:south:05",
+      "nearestDeltaUnity": 1.0,
+      "reason": "Zero-height source filler BDHC versus source route/town BDHC at0.5 or1 Unity; at least one static collision bit set. Model altitude is not a traversal offset.",
+      "to": "hgss:IPKE:r0:matrix:0:cell:20:13",
+      "toBlocked": true,
+      "toSurfaces": [
+        {
+          "plate": 0,
+          "yUnity": -0.0
+        }
+      ],
+      "visualStatus": "unresolved; no faithful visual-topology or pivot approval"
+    },
+    {
+      "decision": "document-blocked-source-elevation-step",
+      "from": "hgss:IPKE:r0:matrix:0:cell:20:12",
+      "fromBlocked": true,
+      "fromSurfaces": [
+        {
+          "plate": 3,
+          "yUnity": 1.0
+        }
+      ],
+      "id": "20,12:south:06",
+      "nearestDeltaUnity": 1.0,
+      "reason": "Zero-height source filler BDHC versus source route/town BDHC at0.5 or1 Unity; at least one static collision bit set. Model altitude is not a traversal offset.",
+      "to": "hgss:IPKE:r0:matrix:0:cell:20:13",
+      "toBlocked": true,
+      "toSurfaces": [
+        {
+          "plate": 0,
+          "yUnity": -0.0
+        }
+      ],
+      "visualStatus": "unresolved; no faithful visual-topology or pivot approval"
+    },
+    {
+      "decision": "document-blocked-source-elevation-step",
+      "from": "hgss:IPKE:r0:matrix:0:cell:20:12",
+      "fromBlocked": true,
+      "fromSurfaces": [
+        {
+          "plate": 3,
+          "yUnity": 1.0
+        }
+      ],
+      "id": "20,12:south:07",
+      "nearestDeltaUnity": 1.0,
+      "reason": "Zero-height source filler BDHC versus source route/town BDHC at0.5 or1 Unity; at least one static collision bit set. Model altitude is not a traversal offset.",
+      "to": "hgss:IPKE:r0:matrix:0:cell:20:13",
+      "toBlocked": true,
+      "toSurfaces": [
+        {
+          "plate": 0,
+          "yUnity": -0.0
+        }
+      ],
+      "visualStatus": "unresolved; no faithful visual-topology or pivot approval"
+    },
+    {
+      "decision": "document-blocked-source-elevation-step",
+      "from": "hgss:IPKE:r0:matrix:0:cell:20:12",
+      "fromBlocked": true,
+      "fromSurfaces": [
+        {
+          "plate": 15,
+          "yUnity": 1.0
+        }
+      ],
+      "id": "20,12:south:08",
+      "nearestDeltaUnity": 1.0,
+      "reason": "Zero-height source filler BDHC versus source route/town BDHC at0.5 or1 Unity; at least one static collision bit set. Model altitude is not a traversal offset.",
+      "to": "hgss:IPKE:r0:matrix:0:cell:20:13",
+      "toBlocked": true,
+      "toSurfaces": [
+        {
+          "plate": 0,
+          "yUnity": -0.0
+        }
+      ],
+      "visualStatus": "unresolved; no faithful visual-topology or pivot approval"
+    },
+    {
+      "decision": "document-blocked-source-elevation-step",
+      "from": "hgss:IPKE:r0:matrix:0:cell:20:12",
+      "fromBlocked": true,
+      "fromSurfaces": [
+        {
+          "plate": 15,
+          "yUnity": 1.0
+        }
+      ],
+      "id": "20,12:south:09",
+      "nearestDeltaUnity": 1.0,
+      "reason": "Zero-height source filler BDHC versus source route/town BDHC at0.5 or1 Unity; at least one static collision bit set. Model altitude is not a traversal offset.",
+      "to": "hgss:IPKE:r0:matrix:0:cell:20:13",
+      "toBlocked": true,
+      "toSurfaces": [
+        {
+          "plate": 0,
+          "yUnity": -0.0
+        }
+      ],
+      "visualStatus": "unresolved; no faithful visual-topology or pivot approval"
+    },
+    {
+      "decision": "document-blocked-source-elevation-step",
+      "from": "hgss:IPKE:r0:matrix:0:cell:20:12",
+      "fromBlocked": true,
+      "fromSurfaces": [
+        {
+          "plate": 15,
+          "yUnity": 1.0
+        }
+      ],
+      "id": "20,12:south:10",
+      "nearestDeltaUnity": 1.0,
+      "reason": "Zero-height source filler BDHC versus source route/town BDHC at0.5 or1 Unity; at least one static collision bit set. Model altitude is not a traversal offset.",
+      "to": "hgss:IPKE:r0:matrix:0:cell:20:13",
+      "toBlocked": true,
+      "toSurfaces": [
+        {
+          "plate": 0,
+          "yUnity": -0.0
+        }
+      ],
+      "visualStatus": "unresolved; no faithful visual-topology or pivot approval"
+    },
+    {
+      "decision": "document-blocked-source-elevation-step",
+      "from": "hgss:IPKE:r0:matrix:0:cell:20:12",
+      "fromBlocked": true,
+      "fromSurfaces": [
+        {
+          "plate": 15,
+          "yUnity": 1.0
+        }
+      ],
+      "id": "20,12:south:11",
+      "nearestDeltaUnity": 1.0,
+      "reason": "Zero-height source filler BDHC versus source route/town BDHC at0.5 or1 Unity; at least one static collision bit set. Model altitude is not a traversal offset.",
+      "to": "hgss:IPKE:r0:matrix:0:cell:20:13",
+      "toBlocked": true,
+      "toSurfaces": [
+        {
+          "plate": 0,
+          "yUnity": -0.0
+        }
+      ],
+      "visualStatus": "unresolved; no faithful visual-topology or pivot approval"
+    },
+    {
+      "decision": "document-blocked-source-elevation-step",
+      "from": "hgss:IPKE:r0:matrix:0:cell:20:12",
+      "fromBlocked": true,
+      "fromSurfaces": [
+        {
+          "plate": 15,
+          "yUnity": 1.0
+        }
+      ],
+      "id": "20,12:south:12",
+      "nearestDeltaUnity": 1.0,
+      "reason": "Zero-height source filler BDHC versus source route/town BDHC at0.5 or1 Unity; at least one static collision bit set. Model altitude is not a traversal offset.",
+      "to": "hgss:IPKE:r0:matrix:0:cell:20:13",
+      "toBlocked": true,
+      "toSurfaces": [
+        {
+          "plate": 0,
+          "yUnity": -0.0
+        }
+      ],
+      "visualStatus": "unresolved; no faithful visual-topology or pivot approval"
+    },
+    {
+      "decision": "document-blocked-source-elevation-step",
+      "from": "hgss:IPKE:r0:matrix:0:cell:20:12",
+      "fromBlocked": true,
+      "fromSurfaces": [
+        {
+          "plate": 15,
+          "yUnity": 1.0
+        }
+      ],
+      "id": "20,12:south:13",
+      "nearestDeltaUnity": 1.0,
+      "reason": "Zero-height source filler BDHC versus source route/town BDHC at0.5 or1 Unity; at least one static collision bit set. Model altitude is not a traversal offset.",
+      "to": "hgss:IPKE:r0:matrix:0:cell:20:13",
+      "toBlocked": true,
+      "toSurfaces": [
+        {
+          "plate": 0,
+          "yUnity": -0.0
+        }
+      ],
+      "visualStatus": "unresolved; no faithful visual-topology or pivot approval"
+    },
+    {
+      "decision": "document-blocked-source-elevation-step",
+      "from": "hgss:IPKE:r0:matrix:0:cell:20:12",
+      "fromBlocked": true,
+      "fromSurfaces": [
+        {
+          "plate": 15,
+          "yUnity": 1.0
+        }
+      ],
+      "id": "20,12:south:14",
+      "nearestDeltaUnity": 1.0,
+      "reason": "Zero-height source filler BDHC versus source route/town BDHC at0.5 or1 Unity; at least one static collision bit set. Model altitude is not a traversal offset.",
+      "to": "hgss:IPKE:r0:matrix:0:cell:20:13",
+      "toBlocked": true,
+      "toSurfaces": [
+        {
+          "plate": 0,
+          "yUnity": -0.0
+        }
+      ],
+      "visualStatus": "unresolved; no faithful visual-topology or pivot approval"
+    },
+    {
+      "decision": "document-blocked-source-elevation-step",
+      "from": "hgss:IPKE:r0:matrix:0:cell:20:12",
+      "fromBlocked": true,
+      "fromSurfaces": [
+        {
+          "plate": 15,
+          "yUnity": 1.0
+        }
+      ],
+      "id": "20,12:south:15",
+      "nearestDeltaUnity": 1.0,
+      "reason": "Zero-height source filler BDHC versus source route/town BDHC at0.5 or1 Unity; at least one static collision bit set. Model altitude is not a traversal offset.",
+      "to": "hgss:IPKE:r0:matrix:0:cell:20:13",
+      "toBlocked": true,
+      "toSurfaces": [
+        {
+          "plate": 0,
+          "yUnity": -0.0
+        }
+      ],
+      "visualStatus": "unresolved; no faithful visual-topology or pivot approval"
+    },
+    {
+      "decision": "document-blocked-source-elevation-step",
+      "from": "hgss:IPKE:r0:matrix:0:cell:20:12",
+      "fromBlocked": true,
+      "fromSurfaces": [
+        {
+          "plate": 11,
+          "yUnity": 1.0
+        }
+      ],
+      "id": "20,12:south:16",
+      "nearestDeltaUnity": 1.0,
+      "reason": "Zero-height source filler BDHC versus source route/town BDHC at0.5 or1 Unity; at least one static collision bit set. Model altitude is not a traversal offset.",
+      "to": "hgss:IPKE:r0:matrix:0:cell:20:13",
+      "toBlocked": true,
+      "toSurfaces": [
+        {
+          "plate": 0,
+          "yUnity": -0.0
+        }
+      ],
+      "visualStatus": "unresolved; no faithful visual-topology or pivot approval"
+    },
+    {
+      "decision": "document-blocked-source-elevation-step",
+      "from": "hgss:IPKE:r0:matrix:0:cell:20:12",
+      "fromBlocked": true,
+      "fromSurfaces": [
+        {
+          "plate": 11,
+          "yUnity": 1.0
+        }
+      ],
+      "id": "20,12:south:17",
+      "nearestDeltaUnity": 1.0,
+      "reason": "Zero-height source filler BDHC versus source route/town BDHC at0.5 or1 Unity; at least one static collision bit set. Model altitude is not a traversal offset.",
+      "to": "hgss:IPKE:r0:matrix:0:cell:20:13",
+      "toBlocked": true,
+      "toSurfaces": [
+        {
+          "plate": 0,
+          "yUnity": -0.0
+        }
+      ],
+      "visualStatus": "unresolved; no faithful visual-topology or pivot approval"
+    },
+    {
+      "decision": "document-blocked-source-elevation-step",
+      "from": "hgss:IPKE:r0:matrix:0:cell:20:12",
+      "fromBlocked": true,
+      "fromSurfaces": [
+        {
+          "plate": 11,
+          "yUnity": 1.0
+        }
+      ],
+      "id": "20,12:south:18",
+      "nearestDeltaUnity": 1.0,
+      "reason": "Zero-height source filler BDHC versus source route/town BDHC at0.5 or1 Unity; at least one static collision bit set. Model altitude is not a traversal offset.",
+      "to": "hgss:IPKE:r0:matrix:0:cell:20:13",
+      "toBlocked": true,
+      "toSurfaces": [
+        {
+          "plate": 0,
+          "yUnity": -0.0
+        }
+      ],
+      "visualStatus": "unresolved; no faithful visual-topology or pivot approval"
+    },
+    {
+      "decision": "document-blocked-source-elevation-step",
+      "from": "hgss:IPKE:r0:matrix:0:cell:20:12",
+      "fromBlocked": true,
+      "fromSurfaces": [
+        {
+          "plate": 11,
+          "yUnity": 1.0
+        }
+      ],
+      "id": "20,12:south:19",
+      "nearestDeltaUnity": 1.0,
+      "reason": "Zero-height source filler BDHC versus source route/town BDHC at0.5 or1 Unity; at least one static collision bit set. Model altitude is not a traversal offset.",
+      "to": "hgss:IPKE:r0:matrix:0:cell:20:13",
+      "toBlocked": true,
+      "toSurfaces": [
+        {
+          "plate": 0,
+          "yUnity": -0.0
+        }
+      ],
+      "visualStatus": "unresolved; no faithful visual-topology or pivot approval"
+    },
+    {
+      "decision": "document-blocked-source-elevation-step",
+      "from": "hgss:IPKE:r0:matrix:0:cell:20:12",
+      "fromBlocked": true,
+      "fromSurfaces": [
+        {
+          "plate": 11,
+          "yUnity": 1.0
+        }
+      ],
+      "id": "20,12:south:20",
+      "nearestDeltaUnity": 1.0,
+      "reason": "Zero-height source filler BDHC versus source route/town BDHC at0.5 or1 Unity; at least one static collision bit set. Model altitude is not a traversal offset.",
+      "to": "hgss:IPKE:r0:matrix:0:cell:20:13",
+      "toBlocked": true,
+      "toSurfaces": [
+        {
+          "plate": 0,
+          "yUnity": -0.0
+        }
+      ],
+      "visualStatus": "unresolved; no faithful visual-topology or pivot approval"
+    },
+    {
+      "decision": "document-blocked-source-elevation-step",
+      "from": "hgss:IPKE:r0:matrix:0:cell:20:12",
+      "fromBlocked": true,
+      "fromSurfaces": [
+        {
+          "plate": 11,
+          "yUnity": 1.0
+        }
+      ],
+      "id": "20,12:south:21",
+      "nearestDeltaUnity": 1.0,
+      "reason": "Zero-height source filler BDHC versus source route/town BDHC at0.5 or1 Unity; at least one static collision bit set. Model altitude is not a traversal offset.",
+      "to": "hgss:IPKE:r0:matrix:0:cell:20:13",
+      "toBlocked": true,
+      "toSurfaces": [
+        {
+          "plate": 0,
+          "yUnity": -0.0
+        }
+      ],
+      "visualStatus": "unresolved; no faithful visual-topology or pivot approval"
+    },
+    {
+      "decision": "document-blocked-source-elevation-step",
+      "from": "hgss:IPKE:r0:matrix:0:cell:20:12",
+      "fromBlocked": true,
+      "fromSurfaces": [
+        {
+          "plate": 11,
+          "yUnity": 1.0
+        }
+      ],
+      "id": "20,12:south:22",
+      "nearestDeltaUnity": 1.0,
+      "reason": "Zero-height source filler BDHC versus source route/town BDHC at0.5 or1 Unity; at least one static collision bit set. Model altitude is not a traversal offset.",
+      "to": "hgss:IPKE:r0:matrix:0:cell:20:13",
+      "toBlocked": true,
+      "toSurfaces": [
+        {
+          "plate": 0,
+          "yUnity": -0.0
+        }
+      ],
+      "visualStatus": "unresolved; no faithful visual-topology or pivot approval"
+    },
+    {
+      "decision": "document-blocked-source-elevation-step",
+      "from": "hgss:IPKE:r0:matrix:0:cell:20:12",
+      "fromBlocked": true,
+      "fromSurfaces": [
+        {
+          "plate": 11,
+          "yUnity": 1.0
+        }
+      ],
+      "id": "20,12:south:23",
+      "nearestDeltaUnity": 1.0,
+      "reason": "Zero-height source filler BDHC versus source route/town BDHC at0.5 or1 Unity; at least one static collision bit set. Model altitude is not a traversal offset.",
+      "to": "hgss:IPKE:r0:matrix:0:cell:20:13",
+      "toBlocked": true,
+      "toSurfaces": [
+        {
+          "plate": 0,
+          "yUnity": -0.0
+        }
+      ],
+      "visualStatus": "unresolved; no faithful visual-topology or pivot approval"
+    },
+    {
+      "decision": "document-blocked-source-elevation-step",
+      "from": "hgss:IPKE:r0:matrix:0:cell:20:12",
+      "fromBlocked": true,
+      "fromSurfaces": [
+        {
+          "plate": 7,
+          "yUnity": 1.0
+        }
+      ],
+      "id": "20,12:south:24",
+      "nearestDeltaUnity": 1.0,
+      "reason": "Zero-height source filler BDHC versus source route/town BDHC at0.5 or1 Unity; at least one static collision bit set. Model altitude is not a traversal offset.",
+      "to": "hgss:IPKE:r0:matrix:0:cell:20:13",
+      "toBlocked": true,
+      "toSurfaces": [
+        {
+          "plate": 0,
+          "yUnity": -0.0
+        }
+      ],
+      "visualStatus": "unresolved; no faithful visual-topology or pivot approval"
+    },
+    {
+      "decision": "document-blocked-source-elevation-step",
+      "from": "hgss:IPKE:r0:matrix:0:cell:20:12",
+      "fromBlocked": true,
+      "fromSurfaces": [
+        {
+          "plate": 7,
+          "yUnity": 1.0
+        }
+      ],
+      "id": "20,12:south:25",
+      "nearestDeltaUnity": 1.0,
+      "reason": "Zero-height source filler BDHC versus source route/town BDHC at0.5 or1 Unity; at least one static collision bit set. Model altitude is not a traversal offset.",
+      "to": "hgss:IPKE:r0:matrix:0:cell:20:13",
+      "toBlocked": true,
+      "toSurfaces": [
+        {
+          "plate": 0,
+          "yUnity": -0.0
+        }
+      ],
+      "visualStatus": "unresolved; no faithful visual-topology or pivot approval"
+    },
+    {
+      "decision": "document-blocked-source-elevation-step",
+      "from": "hgss:IPKE:r0:matrix:0:cell:20:12",
+      "fromBlocked": true,
+      "fromSurfaces": [
+        {
+          "plate": 7,
+          "yUnity": 1.0
+        }
+      ],
+      "id": "20,12:south:26",
+      "nearestDeltaUnity": 1.0,
+      "reason": "Zero-height source filler BDHC versus source route/town BDHC at0.5 or1 Unity; at least one static collision bit set. Model altitude is not a traversal offset.",
+      "to": "hgss:IPKE:r0:matrix:0:cell:20:13",
+      "toBlocked": true,
+      "toSurfaces": [
+        {
+          "plate": 0,
+          "yUnity": -0.0
+        }
+      ],
+      "visualStatus": "unresolved; no faithful visual-topology or pivot approval"
+    },
+    {
+      "decision": "document-blocked-source-elevation-step",
+      "from": "hgss:IPKE:r0:matrix:0:cell:20:12",
+      "fromBlocked": true,
+      "fromSurfaces": [
+        {
+          "plate": 7,
+          "yUnity": 1.0
+        }
+      ],
+      "id": "20,12:south:27",
+      "nearestDeltaUnity": 1.0,
+      "reason": "Zero-height source filler BDHC versus source route/town BDHC at0.5 or1 Unity; at least one static collision bit set. Model altitude is not a traversal offset.",
+      "to": "hgss:IPKE:r0:matrix:0:cell:20:13",
+      "toBlocked": true,
+      "toSurfaces": [
+        {
+          "plate": 0,
+          "yUnity": -0.0
+        }
+      ],
+      "visualStatus": "unresolved; no faithful visual-topology or pivot approval"
+    },
+    {
+      "decision": "document-blocked-source-elevation-step",
+      "from": "hgss:IPKE:r0:matrix:0:cell:20:12",
+      "fromBlocked": true,
+      "fromSurfaces": [
+        {
+          "plate": 7,
+          "yUnity": 1.0
+        }
+      ],
+      "id": "20,12:south:28",
+      "nearestDeltaUnity": 1.0,
+      "reason": "Zero-height source filler BDHC versus source route/town BDHC at0.5 or1 Unity; at least one static collision bit set. Model altitude is not a traversal offset.",
+      "to": "hgss:IPKE:r0:matrix:0:cell:20:13",
+      "toBlocked": true,
+      "toSurfaces": [
+        {
+          "plate": 0,
+          "yUnity": -0.0
+        }
+      ],
+      "visualStatus": "unresolved; no faithful visual-topology or pivot approval"
+    },
+    {
+      "decision": "document-blocked-source-elevation-step",
+      "from": "hgss:IPKE:r0:matrix:0:cell:20:12",
+      "fromBlocked": true,
+      "fromSurfaces": [
+        {
+          "plate": 7,
+          "yUnity": 1.0
+        }
+      ],
+      "id": "20,12:south:29",
+      "nearestDeltaUnity": 1.0,
+      "reason": "Zero-height source filler BDHC versus source route/town BDHC at0.5 or1 Unity; at least one static collision bit set. Model altitude is not a traversal offset.",
+      "to": "hgss:IPKE:r0:matrix:0:cell:20:13",
+      "toBlocked": true,
+      "toSurfaces": [
+        {
+          "plate": 0,
+          "yUnity": -0.0
+        }
+      ],
+      "visualStatus": "unresolved; no faithful visual-topology or pivot approval"
+    },
+    {
+      "decision": "document-blocked-source-elevation-step",
+      "from": "hgss:IPKE:r0:matrix:0:cell:20:12",
+      "fromBlocked": true,
+      "fromSurfaces": [
+        {
+          "plate": 7,
+          "yUnity": 1.0
+        }
+      ],
+      "id": "20,12:south:30",
+      "nearestDeltaUnity": 1.0,
+      "reason": "Zero-height source filler BDHC versus source route/town BDHC at0.5 or1 Unity; at least one static collision bit set. Model altitude is not a traversal offset.",
+      "to": "hgss:IPKE:r0:matrix:0:cell:20:13",
+      "toBlocked": true,
+      "toSurfaces": [
+        {
+          "plate": 0,
+          "yUnity": -0.0
+        }
+      ],
+      "visualStatus": "unresolved; no faithful visual-topology or pivot approval"
+    },
+    {
+      "decision": "document-blocked-source-elevation-step",
+      "from": "hgss:IPKE:r0:matrix:0:cell:20:12",
+      "fromBlocked": true,
+      "fromSurfaces": [
+        {
+          "plate": 7,
+          "yUnity": 1.0
+        }
+      ],
+      "id": "20,12:south:31",
+      "nearestDeltaUnity": 1.0,
+      "reason": "Zero-height source filler BDHC versus source route/town BDHC at0.5 or1 Unity; at least one static collision bit set. Model altitude is not a traversal offset.",
+      "to": "hgss:IPKE:r0:matrix:0:cell:20:13",
+      "toBlocked": true,
+      "toSurfaces": [
+        {
+          "plate": 0,
+          "yUnity": -0.0
+        }
+      ],
+      "visualStatus": "unresolved; no faithful visual-topology or pivot approval"
+    },
+    {
+      "decision": "document-blocked-source-elevation-step",
+      "from": "hgss:IPKE:r0:matrix:0:cell:21:11",
+      "fromBlocked": true,
+      "fromSurfaces": [
+        {
+          "plate": 0,
+          "yUnity": -0.0
+        }
+      ],
+      "id": "21,11:south:00",
+      "nearestDeltaUnity": 1.0,
+      "reason": "Zero-height source filler BDHC versus source route/town BDHC at0.5 or1 Unity; at least one static collision bit set. Model altitude is not a traversal offset.",
+      "to": "hgss:IPKE:r0:matrix:0:cell:21:12",
+      "toBlocked": true,
+      "toSurfaces": [
+        {
+          "plate": 7,
+          "yUnity": 1.0
+        }
+      ],
+      "visualStatus": "unresolved; no faithful visual-topology or pivot approval"
+    },
+    {
+      "decision": "document-blocked-source-elevation-step",
+      "from": "hgss:IPKE:r0:matrix:0:cell:21:11",
+      "fromBlocked": true,
+      "fromSurfaces": [
+        {
+          "plate": 0,
+          "yUnity": -0.0
+        }
+      ],
+      "id": "21,11:south:01",
+      "nearestDeltaUnity": 1.0,
+      "reason": "Zero-height source filler BDHC versus source route/town BDHC at0.5 or1 Unity; at least one static collision bit set. Model altitude is not a traversal offset.",
+      "to": "hgss:IPKE:r0:matrix:0:cell:21:12",
+      "toBlocked": true,
+      "toSurfaces": [
+        {
+          "plate": 7,
+          "yUnity": 1.0
+        }
+      ],
+      "visualStatus": "unresolved; no faithful visual-topology or pivot approval"
+    },
+    {
+      "decision": "document-blocked-source-elevation-step",
+      "from": "hgss:IPKE:r0:matrix:0:cell:21:11",
+      "fromBlocked": true,
+      "fromSurfaces": [
+        {
+          "plate": 0,
+          "yUnity": -0.0
+        }
+      ],
+      "id": "21,11:south:02",
+      "nearestDeltaUnity": 1.0,
+      "reason": "Zero-height source filler BDHC versus source route/town BDHC at0.5 or1 Unity; at least one static collision bit set. Model altitude is not a traversal offset.",
+      "to": "hgss:IPKE:r0:matrix:0:cell:21:12",
+      "toBlocked": true,
+      "toSurfaces": [
+        {
+          "plate": 7,
+          "yUnity": 1.0
+        }
+      ],
+      "visualStatus": "unresolved; no faithful visual-topology or pivot approval"
+    },
+    {
+      "decision": "document-blocked-source-elevation-step",
+      "from": "hgss:IPKE:r0:matrix:0:cell:21:11",
+      "fromBlocked": true,
+      "fromSurfaces": [
+        {
+          "plate": 0,
+          "yUnity": -0.0
+        }
+      ],
+      "id": "21,11:south:03",
+      "nearestDeltaUnity": 1.0,
+      "reason": "Zero-height source filler BDHC versus source route/town BDHC at0.5 or1 Unity; at least one static collision bit set. Model altitude is not a traversal offset.",
+      "to": "hgss:IPKE:r0:matrix:0:cell:21:12",
+      "toBlocked": true,
+      "toSurfaces": [
+        {
+          "plate": 7,
+          "yUnity": 1.0
+        }
+      ],
+      "visualStatus": "unresolved; no faithful visual-topology or pivot approval"
+    },
+    {
+      "decision": "document-blocked-source-elevation-step",
+      "from": "hgss:IPKE:r0:matrix:0:cell:21:11",
+      "fromBlocked": true,
+      "fromSurfaces": [
+        {
+          "plate": 0,
+          "yUnity": -0.0
+        }
+      ],
+      "id": "21,11:south:04",
+      "nearestDeltaUnity": 1.0,
+      "reason": "Zero-height source filler BDHC versus source route/town BDHC at0.5 or1 Unity; at least one static collision bit set. Model altitude is not a traversal offset.",
+      "to": "hgss:IPKE:r0:matrix:0:cell:21:12",
+      "toBlocked": true,
+      "toSurfaces": [
+        {
+          "plate": 7,
+          "yUnity": 1.0
+        }
+      ],
+      "visualStatus": "unresolved; no faithful visual-topology or pivot approval"
+    },
+    {
+      "decision": "document-blocked-source-elevation-step",
+      "from": "hgss:IPKE:r0:matrix:0:cell:21:11",
+      "fromBlocked": true,
+      "fromSurfaces": [
+        {
+          "plate": 0,
+          "yUnity": -0.0
+        }
+      ],
+      "id": "21,11:south:05",
+      "nearestDeltaUnity": 1.0,
+      "reason": "Zero-height source filler BDHC versus source route/town BDHC at0.5 or1 Unity; at least one static collision bit set. Model altitude is not a traversal offset.",
+      "to": "hgss:IPKE:r0:matrix:0:cell:21:12",
+      "toBlocked": true,
+      "toSurfaces": [
+        {
+          "plate": 7,
+          "yUnity": 1.0
+        }
+      ],
+      "visualStatus": "unresolved; no faithful visual-topology or pivot approval"
+    },
+    {
+      "decision": "document-blocked-source-elevation-step",
+      "from": "hgss:IPKE:r0:matrix:0:cell:21:11",
+      "fromBlocked": true,
+      "fromSurfaces": [
+        {
+          "plate": 0,
+          "yUnity": -0.0
+        }
+      ],
+      "id": "21,11:south:06",
+      "nearestDeltaUnity": 1.0,
+      "reason": "Zero-height source filler BDHC versus source route/town BDHC at0.5 or1 Unity; at least one static collision bit set. Model altitude is not a traversal offset.",
+      "to": "hgss:IPKE:r0:matrix:0:cell:21:12",
+      "toBlocked": true,
+      "toSurfaces": [
+        {
+          "plate": 7,
+          "yUnity": 1.0
+        }
+      ],
+      "visualStatus": "unresolved; no faithful visual-topology or pivot approval"
+    },
+    {
+      "decision": "document-blocked-source-elevation-step",
+      "from": "hgss:IPKE:r0:matrix:0:cell:21:11",
+      "fromBlocked": true,
+      "fromSurfaces": [
+        {
+          "plate": 0,
+          "yUnity": -0.0
+        }
+      ],
+      "id": "21,11:south:07",
+      "nearestDeltaUnity": 1.0,
+      "reason": "Zero-height source filler BDHC versus source route/town BDHC at0.5 or1 Unity; at least one static collision bit set. Model altitude is not a traversal offset.",
+      "to": "hgss:IPKE:r0:matrix:0:cell:21:12",
+      "toBlocked": true,
+      "toSurfaces": [
+        {
+          "plate": 7,
+          "yUnity": 1.0
+        }
+      ],
+      "visualStatus": "unresolved; no faithful visual-topology or pivot approval"
+    },
+    {
+      "decision": "document-blocked-source-elevation-step",
+      "from": "hgss:IPKE:r0:matrix:0:cell:21:11",
+      "fromBlocked": true,
+      "fromSurfaces": [
+        {
+          "plate": 0,
+          "yUnity": -0.0
+        }
+      ],
+      "id": "21,11:south:08",
+      "nearestDeltaUnity": 1.0,
+      "reason": "Zero-height source filler BDHC versus source route/town BDHC at0.5 or1 Unity; at least one static collision bit set. Model altitude is not a traversal offset.",
+      "to": "hgss:IPKE:r0:matrix:0:cell:21:12",
+      "toBlocked": true,
+      "toSurfaces": [
+        {
+          "plate": 7,
+          "yUnity": 1.0
+        }
+      ],
+      "visualStatus": "unresolved; no faithful visual-topology or pivot approval"
+    },
+    {
+      "decision": "document-blocked-source-elevation-step",
+      "from": "hgss:IPKE:r0:matrix:0:cell:21:11",
+      "fromBlocked": true,
+      "fromSurfaces": [
+        {
+          "plate": 0,
+          "yUnity": -0.0
+        }
+      ],
+      "id": "21,11:south:09",
+      "nearestDeltaUnity": 1.0,
+      "reason": "Zero-height source filler BDHC versus source route/town BDHC at0.5 or1 Unity; at least one static collision bit set. Model altitude is not a traversal offset.",
+      "to": "hgss:IPKE:r0:matrix:0:cell:21:12",
+      "toBlocked": true,
+      "toSurfaces": [
+        {
+          "plate": 3,
+          "yUnity": 1.0
+        }
+      ],
+      "visualStatus": "unresolved; no faithful visual-topology or pivot approval"
+    },
+    {
+      "decision": "document-blocked-source-elevation-step",
+      "from": "hgss:IPKE:r0:matrix:0:cell:21:11",
+      "fromBlocked": true,
+      "fromSurfaces": [
+        {
+          "plate": 0,
+          "yUnity": -0.0
+        }
+      ],
+      "id": "21,11:south:10",
+      "nearestDeltaUnity": 1.0,
+      "reason": "Zero-height source filler BDHC versus source route/town BDHC at0.5 or1 Unity; at least one static collision bit set. Model altitude is not a traversal offset.",
+      "to": "hgss:IPKE:r0:matrix:0:cell:21:12",
+      "toBlocked": true,
+      "toSurfaces": [
+        {
+          "plate": 3,
+          "yUnity": 1.0
+        }
+      ],
+      "visualStatus": "unresolved; no faithful visual-topology or pivot approval"
+    },
+    {
+      "decision": "document-blocked-source-elevation-step",
+      "from": "hgss:IPKE:r0:matrix:0:cell:21:11",
+      "fromBlocked": true,
+      "fromSurfaces": [
+        {
+          "plate": 0,
+          "yUnity": -0.0
+        }
+      ],
+      "id": "21,11:south:11",
+      "nearestDeltaUnity": 1.0,
+      "reason": "Zero-height source filler BDHC versus source route/town BDHC at0.5 or1 Unity; at least one static collision bit set. Model altitude is not a traversal offset.",
+      "to": "hgss:IPKE:r0:matrix:0:cell:21:12",
+      "toBlocked": true,
+      "toSurfaces": [
+        {
+          "plate": 3,
+          "yUnity": 1.0
+        }
+      ],
+      "visualStatus": "unresolved; no faithful visual-topology or pivot approval"
+    },
+    {
+      "decision": "document-blocked-source-elevation-step",
+      "from": "hgss:IPKE:r0:matrix:0:cell:21:11",
+      "fromBlocked": true,
+      "fromSurfaces": [
+        {
+          "plate": 0,
+          "yUnity": -0.0
+        }
+      ],
+      "id": "21,11:south:12",
+      "nearestDeltaUnity": 1.0,
+      "reason": "Zero-height source filler BDHC versus source route/town BDHC at0.5 or1 Unity; at least one static collision bit set. Model altitude is not a traversal offset.",
+      "to": "hgss:IPKE:r0:matrix:0:cell:21:12",
+      "toBlocked": true,
+      "toSurfaces": [
+        {
+          "plate": 3,
+          "yUnity": 1.0
+        }
+      ],
+      "visualStatus": "unresolved; no faithful visual-topology or pivot approval"
+    },
+    {
+      "decision": "document-blocked-source-elevation-step",
+      "from": "hgss:IPKE:r0:matrix:0:cell:21:11",
+      "fromBlocked": true,
+      "fromSurfaces": [
+        {
+          "plate": 0,
+          "yUnity": -0.0
+        }
+      ],
+      "id": "21,11:south:13",
+      "nearestDeltaUnity": 1.0,
+      "reason": "Zero-height source filler BDHC versus source route/town BDHC at0.5 or1 Unity; at least one static collision bit set. Model altitude is not a traversal offset.",
+      "to": "hgss:IPKE:r0:matrix:0:cell:21:12",
+      "toBlocked": true,
+      "toSurfaces": [
+        {
+          "plate": 3,
+          "yUnity": 1.0
+        }
+      ],
+      "visualStatus": "unresolved; no faithful visual-topology or pivot approval"
+    },
+    {
+      "decision": "document-blocked-source-elevation-step",
+      "from": "hgss:IPKE:r0:matrix:0:cell:21:11",
+      "fromBlocked": true,
+      "fromSurfaces": [
+        {
+          "plate": 0,
+          "yUnity": -0.0
+        }
+      ],
+      "id": "21,11:south:14",
+      "nearestDeltaUnity": 1.0,
+      "reason": "Zero-height source filler BDHC versus source route/town BDHC at0.5 or1 Unity; at least one static collision bit set. Model altitude is not a traversal offset.",
+      "to": "hgss:IPKE:r0:matrix:0:cell:21:12",
+      "toBlocked": true,
+      "toSurfaces": [
+        {
+          "plate": 3,
+          "yUnity": 1.0
+        }
+      ],
+      "visualStatus": "unresolved; no faithful visual-topology or pivot approval"
+    },
+    {
+      "decision": "document-blocked-source-elevation-step",
+      "from": "hgss:IPKE:r0:matrix:0:cell:21:11",
+      "fromBlocked": true,
+      "fromSurfaces": [
+        {
+          "plate": 0,
+          "yUnity": -0.0
+        }
+      ],
+      "id": "21,11:south:15",
+      "nearestDeltaUnity": 1.0,
+      "reason": "Zero-height source filler BDHC versus source route/town BDHC at0.5 or1 Unity; at least one static collision bit set. Model altitude is not a traversal offset.",
+      "to": "hgss:IPKE:r0:matrix:0:cell:21:12",
+      "toBlocked": true,
+      "toSurfaces": [
+        {
+          "plate": 3,
+          "yUnity": 1.0
+        }
+      ],
+      "visualStatus": "unresolved; no faithful visual-topology or pivot approval"
+    },
+    {
+      "decision": "document-blocked-source-elevation-step",
+      "from": "hgss:IPKE:r0:matrix:0:cell:21:11",
+      "fromBlocked": true,
+      "fromSurfaces": [
+        {
+          "plate": 0,
+          "yUnity": -0.0
+        }
+      ],
+      "id": "21,11:south:16",
+      "nearestDeltaUnity": 1.0,
+      "reason": "Zero-height source filler BDHC versus source route/town BDHC at0.5 or1 Unity; at least one static collision bit set. Model altitude is not a traversal offset.",
+      "to": "hgss:IPKE:r0:matrix:0:cell:21:12",
+      "toBlocked": true,
+      "toSurfaces": [
+        {
+          "plate": 3,
+          "yUnity": 1.0
+        }
+      ],
+      "visualStatus": "unresolved; no faithful visual-topology or pivot approval"
+    },
+    {
+      "decision": "document-blocked-source-elevation-step",
+      "from": "hgss:IPKE:r0:matrix:0:cell:21:11",
+      "fromBlocked": true,
+      "fromSurfaces": [
+        {
+          "plate": 0,
+          "yUnity": -0.0
+        }
+      ],
+      "id": "21,11:south:17",
+      "nearestDeltaUnity": 1.0,
+      "reason": "Zero-height source filler BDHC versus source route/town BDHC at0.5 or1 Unity; at least one static collision bit set. Model altitude is not a traversal offset.",
+      "to": "hgss:IPKE:r0:matrix:0:cell:21:12",
+      "toBlocked": true,
+      "toSurfaces": [
+        {
+          "plate": 5,
+          "yUnity": 1.0
+        }
+      ],
+      "visualStatus": "unresolved; no faithful visual-topology or pivot approval"
+    },
+    {
+      "decision": "document-blocked-source-elevation-step",
+      "from": "hgss:IPKE:r0:matrix:0:cell:21:11",
+      "fromBlocked": true,
+      "fromSurfaces": [
+        {
+          "plate": 0,
+          "yUnity": -0.0
+        }
+      ],
+      "id": "21,11:south:18",
+      "nearestDeltaUnity": 1.0,
+      "reason": "Zero-height source filler BDHC versus source route/town BDHC at0.5 or1 Unity; at least one static collision bit set. Model altitude is not a traversal offset.",
+      "to": "hgss:IPKE:r0:matrix:0:cell:21:12",
+      "toBlocked": true,
+      "toSurfaces": [
+        {
+          "plate": 5,
+          "yUnity": 1.0
+        }
+      ],
+      "visualStatus": "unresolved; no faithful visual-topology or pivot approval"
+    },
+    {
+      "decision": "document-blocked-source-elevation-step",
+      "from": "hgss:IPKE:r0:matrix:0:cell:21:11",
+      "fromBlocked": true,
+      "fromSurfaces": [
+        {
+          "plate": 0,
+          "yUnity": -0.0
+        }
+      ],
+      "id": "21,11:south:19",
+      "nearestDeltaUnity": 1.0,
+      "reason": "Zero-height source filler BDHC versus source route/town BDHC at0.5 or1 Unity; at least one static collision bit set. Model altitude is not a traversal offset.",
+      "to": "hgss:IPKE:r0:matrix:0:cell:21:12",
+      "toBlocked": true,
+      "toSurfaces": [
+        {
+          "plate": 5,
+          "yUnity": 1.0
+        }
+      ],
+      "visualStatus": "unresolved; no faithful visual-topology or pivot approval"
+    },
+    {
+      "decision": "document-blocked-source-elevation-step",
+      "from": "hgss:IPKE:r0:matrix:0:cell:21:11",
+      "fromBlocked": true,
+      "fromSurfaces": [
+        {
+          "plate": 0,
+          "yUnity": -0.0
+        }
+      ],
+      "id": "21,11:south:20",
+      "nearestDeltaUnity": 1.0,
+      "reason": "Zero-height source filler BDHC versus source route/town BDHC at0.5 or1 Unity; at least one static collision bit set. Model altitude is not a traversal offset.",
+      "to": "hgss:IPKE:r0:matrix:0:cell:21:12",
+      "toBlocked": true,
+      "toSurfaces": [
+        {
+          "plate": 5,
+          "yUnity": 1.0
+        }
+      ],
+      "visualStatus": "unresolved; no faithful visual-topology or pivot approval"
+    },
+    {
+      "decision": "document-blocked-source-elevation-step",
+      "from": "hgss:IPKE:r0:matrix:0:cell:21:11",
+      "fromBlocked": true,
+      "fromSurfaces": [
+        {
+          "plate": 0,
+          "yUnity": -0.0
+        }
+      ],
+      "id": "21,11:south:21",
+      "nearestDeltaUnity": 1.0,
+      "reason": "Zero-height source filler BDHC versus source route/town BDHC at0.5 or1 Unity; at least one static collision bit set. Model altitude is not a traversal offset.",
+      "to": "hgss:IPKE:r0:matrix:0:cell:21:12",
+      "toBlocked": true,
+      "toSurfaces": [
+        {
+          "plate": 5,
+          "yUnity": 1.0
+        }
+      ],
+      "visualStatus": "unresolved; no faithful visual-topology or pivot approval"
+    },
+    {
+      "decision": "document-blocked-source-elevation-step",
+      "from": "hgss:IPKE:r0:matrix:0:cell:21:11",
+      "fromBlocked": true,
+      "fromSurfaces": [
+        {
+          "plate": 0,
+          "yUnity": -0.0
+        }
+      ],
+      "id": "21,11:south:22",
+      "nearestDeltaUnity": 1.0,
+      "reason": "Zero-height source filler BDHC versus source route/town BDHC at0.5 or1 Unity; at least one static collision bit set. Model altitude is not a traversal offset.",
+      "to": "hgss:IPKE:r0:matrix:0:cell:21:12",
+      "toBlocked": true,
+      "toSurfaces": [
+        {
+          "plate": 5,
+          "yUnity": 1.0
+        }
+      ],
+      "visualStatus": "unresolved; no faithful visual-topology or pivot approval"
+    },
+    {
+      "decision": "document-blocked-source-elevation-step",
+      "from": "hgss:IPKE:r0:matrix:0:cell:21:11",
+      "fromBlocked": true,
+      "fromSurfaces": [
+        {
+          "plate": 0,
+          "yUnity": -0.0
+        }
+      ],
+      "id": "21,11:south:23",
+      "nearestDeltaUnity": 1.0,
+      "reason": "Zero-height source filler BDHC versus source route/town BDHC at0.5 or1 Unity; at least one static collision bit set. Model altitude is not a traversal offset.",
+      "to": "hgss:IPKE:r0:matrix:0:cell:21:12",
+      "toBlocked": true,
+      "toSurfaces": [
+        {
+          "plate": 5,
+          "yUnity": 1.0
+        }
+      ],
+      "visualStatus": "unresolved; no faithful visual-topology or pivot approval"
+    },
+    {
+      "decision": "document-blocked-source-elevation-step",
+      "from": "hgss:IPKE:r0:matrix:0:cell:21:11",
+      "fromBlocked": true,
+      "fromSurfaces": [
+        {
+          "plate": 0,
+          "yUnity": -0.0
+        }
+      ],
+      "id": "21,11:south:24",
+      "nearestDeltaUnity": 1.0,
+      "reason": "Zero-height source filler BDHC versus source route/town BDHC at0.5 or1 Unity; at least one static collision bit set. Model altitude is not a traversal offset.",
+      "to": "hgss:IPKE:r0:matrix:0:cell:21:12",
+      "toBlocked": true,
+      "toSurfaces": [
+        {
+          "plate": 5,
+          "yUnity": 1.0
+        }
+      ],
+      "visualStatus": "unresolved; no faithful visual-topology or pivot approval"
+    },
+    {
+      "decision": "document-blocked-source-elevation-step",
+      "from": "hgss:IPKE:r0:matrix:0:cell:21:11",
+      "fromBlocked": true,
+      "fromSurfaces": [
+        {
+          "plate": 0,
+          "yUnity": -0.0
+        }
+      ],
+      "id": "21,11:south:25",
+      "nearestDeltaUnity": 1.0,
+      "reason": "Zero-height source filler BDHC versus source route/town BDHC at0.5 or1 Unity; at least one static collision bit set. Model altitude is not a traversal offset.",
+      "to": "hgss:IPKE:r0:matrix:0:cell:21:12",
+      "toBlocked": true,
+      "toSurfaces": [
+        {
+          "plate": 5,
+          "yUnity": 1.0
+        }
+      ],
+      "visualStatus": "unresolved; no faithful visual-topology or pivot approval"
+    },
+    {
+      "decision": "document-blocked-source-elevation-step",
+      "from": "hgss:IPKE:r0:matrix:0:cell:21:11",
+      "fromBlocked": true,
+      "fromSurfaces": [
+        {
+          "plate": 0,
+          "yUnity": -0.0
+        }
+      ],
+      "id": "21,11:south:26",
+      "nearestDeltaUnity": 1.0,
+      "reason": "Zero-height source filler BDHC versus source route/town BDHC at0.5 or1 Unity; at least one static collision bit set. Model altitude is not a traversal offset.",
+      "to": "hgss:IPKE:r0:matrix:0:cell:21:12",
+      "toBlocked": true,
+      "toSurfaces": [
+        {
+          "plate": 5,
+          "yUnity": 1.0
+        }
+      ],
+      "visualStatus": "unresolved; no faithful visual-topology or pivot approval"
+    },
+    {
+      "decision": "document-blocked-source-elevation-step",
+      "from": "hgss:IPKE:r0:matrix:0:cell:21:11",
+      "fromBlocked": true,
+      "fromSurfaces": [
+        {
+          "plate": 0,
+          "yUnity": -0.0
+        }
+      ],
+      "id": "21,11:south:27",
+      "nearestDeltaUnity": 1.0,
+      "reason": "Zero-height source filler BDHC versus source route/town BDHC at0.5 or1 Unity; at least one static collision bit set. Model altitude is not a traversal offset.",
+      "to": "hgss:IPKE:r0:matrix:0:cell:21:12",
+      "toBlocked": true,
+      "toSurfaces": [
+        {
+          "plate": 5,
+          "yUnity": 1.0
+        }
+      ],
+      "visualStatus": "unresolved; no faithful visual-topology or pivot approval"
+    },
+    {
+      "decision": "document-blocked-source-elevation-step",
+      "from": "hgss:IPKE:r0:matrix:0:cell:21:11",
+      "fromBlocked": true,
+      "fromSurfaces": [
+        {
+          "plate": 0,
+          "yUnity": -0.0
+        }
+      ],
+      "id": "21,11:south:28",
+      "nearestDeltaUnity": 1.0,
+      "reason": "Zero-height source filler BDHC versus source route/town BDHC at0.5 or1 Unity; at least one static collision bit set. Model altitude is not a traversal offset.",
+      "to": "hgss:IPKE:r0:matrix:0:cell:21:12",
+      "toBlocked": true,
+      "toSurfaces": [
+        {
+          "plate": 5,
+          "yUnity": 1.0
+        }
+      ],
+      "visualStatus": "unresolved; no faithful visual-topology or pivot approval"
+    },
+    {
+      "decision": "document-blocked-source-elevation-step",
+      "from": "hgss:IPKE:r0:matrix:0:cell:21:11",
+      "fromBlocked": true,
+      "fromSurfaces": [
+        {
+          "plate": 0,
+          "yUnity": -0.0
+        }
+      ],
+      "id": "21,11:south:29",
+      "nearestDeltaUnity": 1.0,
+      "reason": "Zero-height source filler BDHC versus source route/town BDHC at0.5 or1 Unity; at least one static collision bit set. Model altitude is not a traversal offset.",
+      "to": "hgss:IPKE:r0:matrix:0:cell:21:12",
+      "toBlocked": true,
+      "toSurfaces": [
+        {
+          "plate": 5,
+          "yUnity": 1.0
+        }
+      ],
+      "visualStatus": "unresolved; no faithful visual-topology or pivot approval"
+    },
+    {
+      "decision": "document-blocked-source-elevation-step",
+      "from": "hgss:IPKE:r0:matrix:0:cell:21:11",
+      "fromBlocked": true,
+      "fromSurfaces": [
+        {
+          "plate": 0,
+          "yUnity": -0.0
+        }
+      ],
+      "id": "21,11:south:30",
+      "nearestDeltaUnity": 1.0,
+      "reason": "Zero-height source filler BDHC versus source route/town BDHC at0.5 or1 Unity; at least one static collision bit set. Model altitude is not a traversal offset.",
+      "to": "hgss:IPKE:r0:matrix:0:cell:21:12",
+      "toBlocked": true,
+      "toSurfaces": [
+        {
+          "plate": 5,
+          "yUnity": 1.0
+        }
+      ],
+      "visualStatus": "unresolved; no faithful visual-topology or pivot approval"
+    },
+    {
+      "decision": "document-blocked-source-elevation-step",
+      "from": "hgss:IPKE:r0:matrix:0:cell:21:11",
+      "fromBlocked": true,
+      "fromSurfaces": [
+        {
+          "plate": 0,
+          "yUnity": -0.0
+        }
+      ],
+      "id": "21,11:south:31",
+      "nearestDeltaUnity": 1.0,
+      "reason": "Zero-height source filler BDHC versus source route/town BDHC at0.5 or1 Unity; at least one static collision bit set. Model altitude is not a traversal offset.",
+      "to": "hgss:IPKE:r0:matrix:0:cell:21:12",
+      "toBlocked": true,
+      "toSurfaces": [
+        {
+          "plate": 5,
+          "yUnity": 1.0
+        }
+      ],
+      "visualStatus": "unresolved; no faithful visual-topology or pivot approval"
+    },
+    {
+      "decision": "document-blocked-source-elevation-step",
+      "from": "hgss:IPKE:r0:matrix:0:cell:21:12",
+      "fromBlocked": true,
+      "fromSurfaces": [
+        {
+          "plate": 15,
+          "yUnity": 1.0
+        }
+      ],
+      "id": "21,12:south:00",
+      "nearestDeltaUnity": 1.0,
+      "reason": "Zero-height source filler BDHC versus source route/town BDHC at0.5 or1 Unity; at least one static collision bit set. Model altitude is not a traversal offset.",
+      "to": "hgss:IPKE:r0:matrix:0:cell:21:13",
+      "toBlocked": true,
+      "toSurfaces": [
+        {
+          "plate": 0,
+          "yUnity": -0.0
+        }
+      ],
+      "visualStatus": "unresolved; no faithful visual-topology or pivot approval"
+    },
+    {
+      "decision": "document-blocked-source-elevation-step",
+      "from": "hgss:IPKE:r0:matrix:0:cell:21:12",
+      "fromBlocked": true,
+      "fromSurfaces": [
+        {
+          "plate": 15,
+          "yUnity": 1.0
+        }
+      ],
+      "id": "21,12:south:01",
+      "nearestDeltaUnity": 1.0,
+      "reason": "Zero-height source filler BDHC versus source route/town BDHC at0.5 or1 Unity; at least one static collision bit set. Model altitude is not a traversal offset.",
+      "to": "hgss:IPKE:r0:matrix:0:cell:21:13",
+      "toBlocked": true,
+      "toSurfaces": [
+        {
+          "plate": 0,
+          "yUnity": -0.0
+        }
+      ],
+      "visualStatus": "unresolved; no faithful visual-topology or pivot approval"
+    },
+    {
+      "decision": "document-blocked-source-elevation-step",
+      "from": "hgss:IPKE:r0:matrix:0:cell:21:12",
+      "fromBlocked": true,
+      "fromSurfaces": [
+        {
+          "plate": 15,
+          "yUnity": 1.0
+        }
+      ],
+      "id": "21,12:south:02",
+      "nearestDeltaUnity": 1.0,
+      "reason": "Zero-height source filler BDHC versus source route/town BDHC at0.5 or1 Unity; at least one static collision bit set. Model altitude is not a traversal offset.",
+      "to": "hgss:IPKE:r0:matrix:0:cell:21:13",
+      "toBlocked": true,
+      "toSurfaces": [
+        {
+          "plate": 0,
+          "yUnity": -0.0
+        }
+      ],
+      "visualStatus": "unresolved; no faithful visual-topology or pivot approval"
+    },
+    {
+      "decision": "document-blocked-source-elevation-step",
+      "from": "hgss:IPKE:r0:matrix:0:cell:21:12",
+      "fromBlocked": true,
+      "fromSurfaces": [
+        {
+          "plate": 15,
+          "yUnity": 1.0
+        }
+      ],
+      "id": "21,12:south:03",
+      "nearestDeltaUnity": 1.0,
+      "reason": "Zero-height source filler BDHC versus source route/town BDHC at0.5 or1 Unity; at least one static collision bit set. Model altitude is not a traversal offset.",
+      "to": "hgss:IPKE:r0:matrix:0:cell:21:13",
+      "toBlocked": true,
+      "toSurfaces": [
+        {
+          "plate": 0,
+          "yUnity": -0.0
+        }
+      ],
+      "visualStatus": "unresolved; no faithful visual-topology or pivot approval"
+    },
+    {
+      "decision": "document-blocked-source-elevation-step",
+      "from": "hgss:IPKE:r0:matrix:0:cell:21:12",
+      "fromBlocked": true,
+      "fromSurfaces": [
+        {
+          "plate": 15,
+          "yUnity": 1.0
+        }
+      ],
+      "id": "21,12:south:04",
+      "nearestDeltaUnity": 1.0,
+      "reason": "Zero-height source filler BDHC versus source route/town BDHC at0.5 or1 Unity; at least one static collision bit set. Model altitude is not a traversal offset.",
+      "to": "hgss:IPKE:r0:matrix:0:cell:21:13",
+      "toBlocked": true,
+      "toSurfaces": [
+        {
+          "plate": 0,
+          "yUnity": -0.0
+        }
+      ],
+      "visualStatus": "unresolved; no faithful visual-topology or pivot approval"
+    },
+    {
+      "decision": "document-blocked-source-elevation-step",
+      "from": "hgss:IPKE:r0:matrix:0:cell:21:12",
+      "fromBlocked": true,
+      "fromSurfaces": [
+        {
+          "plate": 15,
+          "yUnity": 1.0
+        }
+      ],
+      "id": "21,12:south:05",
+      "nearestDeltaUnity": 1.0,
+      "reason": "Zero-height source filler BDHC versus source route/town BDHC at0.5 or1 Unity; at least one static collision bit set. Model altitude is not a traversal offset.",
+      "to": "hgss:IPKE:r0:matrix:0:cell:21:13",
+      "toBlocked": true,
+      "toSurfaces": [
+        {
+          "plate": 0,
+          "yUnity": -0.0
+        }
+      ],
+      "visualStatus": "unresolved; no faithful visual-topology or pivot approval"
+    },
+    {
+      "decision": "document-blocked-source-elevation-step",
+      "from": "hgss:IPKE:r0:matrix:0:cell:21:12",
+      "fromBlocked": true,
+      "fromSurfaces": [
+        {
+          "plate": 15,
+          "yUnity": 1.0
+        }
+      ],
+      "id": "21,12:south:06",
+      "nearestDeltaUnity": 1.0,
+      "reason": "Zero-height source filler BDHC versus source route/town BDHC at0.5 or1 Unity; at least one static collision bit set. Model altitude is not a traversal offset.",
+      "to": "hgss:IPKE:r0:matrix:0:cell:21:13",
+      "toBlocked": true,
+      "toSurfaces": [
+        {
+          "plate": 0,
+          "yUnity": -0.0
+        }
+      ],
+      "visualStatus": "unresolved; no faithful visual-topology or pivot approval"
+    },
+    {
+      "decision": "document-blocked-source-elevation-step",
+      "from": "hgss:IPKE:r0:matrix:0:cell:21:12",
+      "fromBlocked": true,
+      "fromSurfaces": [
+        {
+          "plate": 15,
+          "yUnity": 1.0
+        }
+      ],
+      "id": "21,12:south:07",
+      "nearestDeltaUnity": 1.0,
+      "reason": "Zero-height source filler BDHC versus source route/town BDHC at0.5 or1 Unity; at least one static collision bit set. Model altitude is not a traversal offset.",
+      "to": "hgss:IPKE:r0:matrix:0:cell:21:13",
+      "toBlocked": true,
+      "toSurfaces": [
+        {
+          "plate": 0,
+          "yUnity": -0.0
+        }
+      ],
+      "visualStatus": "unresolved; no faithful visual-topology or pivot approval"
+    },
+    {
+      "decision": "document-blocked-source-elevation-step",
+      "from": "hgss:IPKE:r0:matrix:0:cell:21:12",
+      "fromBlocked": true,
+      "fromSurfaces": [
+        {
+          "plate": 16,
+          "yUnity": 1.0
+        }
+      ],
+      "id": "21,12:south:08",
+      "nearestDeltaUnity": 1.0,
+      "reason": "Zero-height source filler BDHC versus source route/town BDHC at0.5 or1 Unity; at least one static collision bit set. Model altitude is not a traversal offset.",
+      "to": "hgss:IPKE:r0:matrix:0:cell:21:13",
+      "toBlocked": true,
+      "toSurfaces": [
+        {
+          "plate": 0,
+          "yUnity": -0.0
+        }
+      ],
+      "visualStatus": "unresolved; no faithful visual-topology or pivot approval"
+    },
+    {
+      "decision": "document-blocked-source-elevation-step",
+      "from": "hgss:IPKE:r0:matrix:0:cell:21:12",
+      "fromBlocked": true,
+      "fromSurfaces": [
+        {
+          "plate": 16,
+          "yUnity": 1.0
+        }
+      ],
+      "id": "21,12:south:09",
+      "nearestDeltaUnity": 1.0,
+      "reason": "Zero-height source filler BDHC versus source route/town BDHC at0.5 or1 Unity; at least one static collision bit set. Model altitude is not a traversal offset.",
+      "to": "hgss:IPKE:r0:matrix:0:cell:21:13",
+      "toBlocked": true,
+      "toSurfaces": [
+        {
+          "plate": 0,
+          "yUnity": -0.0
+        }
+      ],
+      "visualStatus": "unresolved; no faithful visual-topology or pivot approval"
+    },
+    {
+      "decision": "document-blocked-source-elevation-step",
+      "from": "hgss:IPKE:r0:matrix:0:cell:21:12",
+      "fromBlocked": true,
+      "fromSurfaces": [
+        {
+          "plate": 16,
+          "yUnity": 1.0
+        }
+      ],
+      "id": "21,12:south:10",
+      "nearestDeltaUnity": 1.0,
+      "reason": "Zero-height source filler BDHC versus source route/town BDHC at0.5 or1 Unity; at least one static collision bit set. Model altitude is not a traversal offset.",
+      "to": "hgss:IPKE:r0:matrix:0:cell:21:13",
+      "toBlocked": true,
+      "toSurfaces": [
+        {
+          "plate": 0,
+          "yUnity": -0.0
+        }
+      ],
+      "visualStatus": "unresolved; no faithful visual-topology or pivot approval"
+    },
+    {
+      "decision": "document-blocked-source-elevation-step",
+      "from": "hgss:IPKE:r0:matrix:0:cell:21:12",
+      "fromBlocked": true,
+      "fromSurfaces": [
+        {
+          "plate": 16,
+          "yUnity": 1.0
+        }
+      ],
+      "id": "21,12:south:11",
+      "nearestDeltaUnity": 1.0,
+      "reason": "Zero-height source filler BDHC versus source route/town BDHC at0.5 or1 Unity; at least one static collision bit set. Model altitude is not a traversal offset.",
+      "to": "hgss:IPKE:r0:matrix:0:cell:21:13",
+      "toBlocked": true,
+      "toSurfaces": [
+        {
+          "plate": 0,
+          "yUnity": -0.0
+        }
+      ],
+      "visualStatus": "unresolved; no faithful visual-topology or pivot approval"
+    },
+    {
+      "decision": "document-blocked-source-elevation-step",
+      "from": "hgss:IPKE:r0:matrix:0:cell:21:12",
+      "fromBlocked": true,
+      "fromSurfaces": [
+        {
+          "plate": 16,
+          "yUnity": 1.0
+        }
+      ],
+      "id": "21,12:south:12",
+      "nearestDeltaUnity": 1.0,
+      "reason": "Zero-height source filler BDHC versus source route/town BDHC at0.5 or1 Unity; at least one static collision bit set. Model altitude is not a traversal offset.",
+      "to": "hgss:IPKE:r0:matrix:0:cell:21:13",
+      "toBlocked": true,
+      "toSurfaces": [
+        {
+          "plate": 0,
+          "yUnity": -0.0
+        }
+      ],
+      "visualStatus": "unresolved; no faithful visual-topology or pivot approval"
+    },
+    {
+      "decision": "document-blocked-source-elevation-step",
+      "from": "hgss:IPKE:r0:matrix:0:cell:21:12",
+      "fromBlocked": true,
+      "fromSurfaces": [
+        {
+          "plate": 16,
+          "yUnity": 1.0
+        }
+      ],
+      "id": "21,12:south:13",
+      "nearestDeltaUnity": 1.0,
+      "reason": "Zero-height source filler BDHC versus source route/town BDHC at0.5 or1 Unity; at least one static collision bit set. Model altitude is not a traversal offset.",
+      "to": "hgss:IPKE:r0:matrix:0:cell:21:13",
+      "toBlocked": true,
+      "toSurfaces": [
+        {
+          "plate": 0,
+          "yUnity": -0.0
+        }
+      ],
+      "visualStatus": "unresolved; no faithful visual-topology or pivot approval"
+    },
+    {
+      "decision": "document-blocked-source-elevation-step",
+      "from": "hgss:IPKE:r0:matrix:0:cell:21:12",
+      "fromBlocked": true,
+      "fromSurfaces": [
+        {
+          "plate": 16,
+          "yUnity": 1.0
+        }
+      ],
+      "id": "21,12:south:14",
+      "nearestDeltaUnity": 1.0,
+      "reason": "Zero-height source filler BDHC versus source route/town BDHC at0.5 or1 Unity; at least one static collision bit set. Model altitude is not a traversal offset.",
+      "to": "hgss:IPKE:r0:matrix:0:cell:21:13",
+      "toBlocked": true,
+      "toSurfaces": [
+        {
+          "plate": 0,
+          "yUnity": -0.0
+        }
+      ],
+      "visualStatus": "unresolved; no faithful visual-topology or pivot approval"
+    },
+    {
+      "decision": "document-blocked-source-elevation-step",
+      "from": "hgss:IPKE:r0:matrix:0:cell:21:12",
+      "fromBlocked": true,
+      "fromSurfaces": [
+        {
+          "plate": 16,
+          "yUnity": 1.0
+        }
+      ],
+      "id": "21,12:south:15",
+      "nearestDeltaUnity": 1.0,
+      "reason": "Zero-height source filler BDHC versus source route/town BDHC at0.5 or1 Unity; at least one static collision bit set. Model altitude is not a traversal offset.",
+      "to": "hgss:IPKE:r0:matrix:0:cell:21:13",
+      "toBlocked": true,
+      "toSurfaces": [
+        {
+          "plate": 0,
+          "yUnity": -0.0
+        }
+      ],
+      "visualStatus": "unresolved; no faithful visual-topology or pivot approval"
+    },
+    {
+      "decision": "document-blocked-source-elevation-step",
+      "from": "hgss:IPKE:r0:matrix:0:cell:21:12",
+      "fromBlocked": true,
+      "fromSurfaces": [
+        {
+          "plate": 17,
+          "yUnity": 1.0
+        }
+      ],
+      "id": "21,12:south:16",
+      "nearestDeltaUnity": 1.0,
+      "reason": "Zero-height source filler BDHC versus source route/town BDHC at0.5 or1 Unity; at least one static collision bit set. Model altitude is not a traversal offset.",
+      "to": "hgss:IPKE:r0:matrix:0:cell:21:13",
+      "toBlocked": true,
+      "toSurfaces": [
+        {
+          "plate": 0,
+          "yUnity": -0.0
+        }
+      ],
+      "visualStatus": "unresolved; no faithful visual-topology or pivot approval"
+    },
+    {
+      "decision": "document-blocked-source-elevation-step",
+      "from": "hgss:IPKE:r0:matrix:0:cell:21:12",
+      "fromBlocked": true,
+      "fromSurfaces": [
+        {
+          "plate": 17,
+          "yUnity": 1.0
+        }
+      ],
+      "id": "21,12:south:17",
+      "nearestDeltaUnity": 1.0,
+      "reason": "Zero-height source filler BDHC versus source route/town BDHC at0.5 or1 Unity; at least one static collision bit set. Model altitude is not a traversal offset.",
+      "to": "hgss:IPKE:r0:matrix:0:cell:21:13",
+      "toBlocked": true,
+      "toSurfaces": [
+        {
+          "plate": 0,
+          "yUnity": -0.0
+        }
+      ],
+      "visualStatus": "unresolved; no faithful visual-topology or pivot approval"
+    },
+    {
+      "decision": "document-blocked-source-elevation-step",
+      "from": "hgss:IPKE:r0:matrix:0:cell:21:12",
+      "fromBlocked": true,
+      "fromSurfaces": [
+        {
+          "plate": 17,
+          "yUnity": 1.0
+        }
+      ],
+      "id": "21,12:south:18",
+      "nearestDeltaUnity": 1.0,
+      "reason": "Zero-height source filler BDHC versus source route/town BDHC at0.5 or1 Unity; at least one static collision bit set. Model altitude is not a traversal offset.",
+      "to": "hgss:IPKE:r0:matrix:0:cell:21:13",
+      "toBlocked": true,
+      "toSurfaces": [
+        {
+          "plate": 0,
+          "yUnity": -0.0
+        }
+      ],
+      "visualStatus": "unresolved; no faithful visual-topology or pivot approval"
+    },
+    {
+      "decision": "document-blocked-source-elevation-step",
+      "from": "hgss:IPKE:r0:matrix:0:cell:21:12",
+      "fromBlocked": true,
+      "fromSurfaces": [
+        {
+          "plate": 17,
+          "yUnity": 1.0
+        }
+      ],
+      "id": "21,12:south:19",
+      "nearestDeltaUnity": 1.0,
+      "reason": "Zero-height source filler BDHC versus source route/town BDHC at0.5 or1 Unity; at least one static collision bit set. Model altitude is not a traversal offset.",
+      "to": "hgss:IPKE:r0:matrix:0:cell:21:13",
+      "toBlocked": true,
+      "toSurfaces": [
+        {
+          "plate": 0,
+          "yUnity": -0.0
+        }
+      ],
+      "visualStatus": "unresolved; no faithful visual-topology or pivot approval"
+    },
+    {
+      "decision": "document-blocked-source-elevation-step",
+      "from": "hgss:IPKE:r0:matrix:0:cell:21:12",
+      "fromBlocked": true,
+      "fromSurfaces": [
+        {
+          "plate": 17,
+          "yUnity": 1.0
+        }
+      ],
+      "id": "21,12:south:20",
+      "nearestDeltaUnity": 1.0,
+      "reason": "Zero-height source filler BDHC versus source route/town BDHC at0.5 or1 Unity; at least one static collision bit set. Model altitude is not a traversal offset.",
+      "to": "hgss:IPKE:r0:matrix:0:cell:21:13",
+      "toBlocked": true,
+      "toSurfaces": [
+        {
+          "plate": 0,
+          "yUnity": -0.0
+        }
+      ],
+      "visualStatus": "unresolved; no faithful visual-topology or pivot approval"
+    },
+    {
+      "decision": "document-blocked-source-elevation-step",
+      "from": "hgss:IPKE:r0:matrix:0:cell:21:12",
+      "fromBlocked": true,
+      "fromSurfaces": [
+        {
+          "plate": 17,
+          "yUnity": 1.0
+        }
+      ],
+      "id": "21,12:south:21",
+      "nearestDeltaUnity": 1.0,
+      "reason": "Zero-height source filler BDHC versus source route/town BDHC at0.5 or1 Unity; at least one static collision bit set. Model altitude is not a traversal offset.",
+      "to": "hgss:IPKE:r0:matrix:0:cell:21:13",
+      "toBlocked": true,
+      "toSurfaces": [
+        {
+          "plate": 0,
+          "yUnity": -0.0
+        }
+      ],
+      "visualStatus": "unresolved; no faithful visual-topology or pivot approval"
+    },
+    {
+      "decision": "document-blocked-source-elevation-step",
+      "from": "hgss:IPKE:r0:matrix:0:cell:21:12",
+      "fromBlocked": true,
+      "fromSurfaces": [
+        {
+          "plate": 17,
+          "yUnity": 1.0
+        }
+      ],
+      "id": "21,12:south:22",
+      "nearestDeltaUnity": 1.0,
+      "reason": "Zero-height source filler BDHC versus source route/town BDHC at0.5 or1 Unity; at least one static collision bit set. Model altitude is not a traversal offset.",
+      "to": "hgss:IPKE:r0:matrix:0:cell:21:13",
+      "toBlocked": true,
+      "toSurfaces": [
+        {
+          "plate": 0,
+          "yUnity": -0.0
+        }
+      ],
+      "visualStatus": "unresolved; no faithful visual-topology or pivot approval"
+    },
+    {
+      "decision": "document-blocked-source-elevation-step",
+      "from": "hgss:IPKE:r0:matrix:0:cell:21:12",
+      "fromBlocked": true,
+      "fromSurfaces": [
+        {
+          "plate": 17,
+          "yUnity": 1.0
+        }
+      ],
+      "id": "21,12:south:23",
+      "nearestDeltaUnity": 1.0,
+      "reason": "Zero-height source filler BDHC versus source route/town BDHC at0.5 or1 Unity; at least one static collision bit set. Model altitude is not a traversal offset.",
+      "to": "hgss:IPKE:r0:matrix:0:cell:21:13",
+      "toBlocked": true,
+      "toSurfaces": [
+        {
+          "plate": 0,
+          "yUnity": -0.0
+        }
+      ],
+      "visualStatus": "unresolved; no faithful visual-topology or pivot approval"
+    },
+    {
+      "decision": "document-blocked-source-elevation-step",
+      "from": "hgss:IPKE:r0:matrix:0:cell:21:12",
+      "fromBlocked": true,
+      "fromSurfaces": [
+        {
+          "plate": 19,
+          "yUnity": 1.0
+        }
+      ],
+      "id": "21,12:south:24",
+      "nearestDeltaUnity": 1.0,
+      "reason": "Zero-height source filler BDHC versus source route/town BDHC at0.5 or1 Unity; at least one static collision bit set. Model altitude is not a traversal offset.",
+      "to": "hgss:IPKE:r0:matrix:0:cell:21:13",
+      "toBlocked": true,
+      "toSurfaces": [
+        {
+          "plate": 0,
+          "yUnity": -0.0
+        }
+      ],
+      "visualStatus": "unresolved; no faithful visual-topology or pivot approval"
+    },
+    {
+      "decision": "document-blocked-source-elevation-step",
+      "from": "hgss:IPKE:r0:matrix:0:cell:21:12",
+      "fromBlocked": true,
+      "fromSurfaces": [
+        {
+          "plate": 19,
+          "yUnity": 1.0
+        }
+      ],
+      "id": "21,12:south:25",
+      "nearestDeltaUnity": 1.0,
+      "reason": "Zero-height source filler BDHC versus source route/town BDHC at0.5 or1 Unity; at least one static collision bit set. Model altitude is not a traversal offset.",
+      "to": "hgss:IPKE:r0:matrix:0:cell:21:13",
+      "toBlocked": true,
+      "toSurfaces": [
+        {
+          "plate": 0,
+          "yUnity": -0.0
+        }
+      ],
+      "visualStatus": "unresolved; no faithful visual-topology or pivot approval"
+    },
+    {
+      "decision": "document-blocked-source-elevation-step",
+      "from": "hgss:IPKE:r0:matrix:0:cell:21:12",
+      "fromBlocked": true,
+      "fromSurfaces": [
+        {
+          "plate": 19,
+          "yUnity": 1.0
+        }
+      ],
+      "id": "21,12:south:26",
+      "nearestDeltaUnity": 1.0,
+      "reason": "Zero-height source filler BDHC versus source route/town BDHC at0.5 or1 Unity; at least one static collision bit set. Model altitude is not a traversal offset.",
+      "to": "hgss:IPKE:r0:matrix:0:cell:21:13",
+      "toBlocked": true,
+      "toSurfaces": [
+        {
+          "plate": 0,
+          "yUnity": -0.0
+        }
+      ],
+      "visualStatus": "unresolved; no faithful visual-topology or pivot approval"
+    },
+    {
+      "decision": "document-blocked-source-elevation-step",
+      "from": "hgss:IPKE:r0:matrix:0:cell:21:12",
+      "fromBlocked": true,
+      "fromSurfaces": [
+        {
+          "plate": 19,
+          "yUnity": 1.0
+        }
+      ],
+      "id": "21,12:south:27",
+      "nearestDeltaUnity": 1.0,
+      "reason": "Zero-height source filler BDHC versus source route/town BDHC at0.5 or1 Unity; at least one static collision bit set. Model altitude is not a traversal offset.",
+      "to": "hgss:IPKE:r0:matrix:0:cell:21:13",
+      "toBlocked": true,
+      "toSurfaces": [
+        {
+          "plate": 0,
+          "yUnity": -0.0
+        }
+      ],
+      "visualStatus": "unresolved; no faithful visual-topology or pivot approval"
+    },
+    {
+      "decision": "document-blocked-source-elevation-step",
+      "from": "hgss:IPKE:r0:matrix:0:cell:21:12",
+      "fromBlocked": true,
+      "fromSurfaces": [
+        {
+          "plate": 19,
+          "yUnity": 1.0
+        }
+      ],
+      "id": "21,12:south:28",
+      "nearestDeltaUnity": 1.0,
+      "reason": "Zero-height source filler BDHC versus source route/town BDHC at0.5 or1 Unity; at least one static collision bit set. Model altitude is not a traversal offset.",
+      "to": "hgss:IPKE:r0:matrix:0:cell:21:13",
+      "toBlocked": true,
+      "toSurfaces": [
+        {
+          "plate": 0,
+          "yUnity": -0.0
+        }
+      ],
+      "visualStatus": "unresolved; no faithful visual-topology or pivot approval"
+    },
+    {
+      "decision": "document-blocked-source-elevation-step",
+      "from": "hgss:IPKE:r0:matrix:0:cell:21:12",
+      "fromBlocked": true,
+      "fromSurfaces": [
+        {
+          "plate": 19,
+          "yUnity": 1.0
+        }
+      ],
+      "id": "21,12:south:29",
+      "nearestDeltaUnity": 1.0,
+      "reason": "Zero-height source filler BDHC versus source route/town BDHC at0.5 or1 Unity; at least one static collision bit set. Model altitude is not a traversal offset.",
+      "to": "hgss:IPKE:r0:matrix:0:cell:21:13",
+      "toBlocked": true,
+      "toSurfaces": [
+        {
+          "plate": 0,
+          "yUnity": -0.0
+        }
+      ],
+      "visualStatus": "unresolved; no faithful visual-topology or pivot approval"
+    },
+    {
+      "decision": "document-blocked-source-elevation-step",
+      "from": "hgss:IPKE:r0:matrix:0:cell:21:12",
+      "fromBlocked": true,
+      "fromSurfaces": [
+        {
+          "plate": 19,
+          "yUnity": 1.0
+        }
+      ],
+      "id": "21,12:south:30",
+      "nearestDeltaUnity": 1.0,
+      "reason": "Zero-height source filler BDHC versus source route/town BDHC at0.5 or1 Unity; at least one static collision bit set. Model altitude is not a traversal offset.",
+      "to": "hgss:IPKE:r0:matrix:0:cell:21:13",
+      "toBlocked": true,
+      "toSurfaces": [
+        {
+          "plate": 0,
+          "yUnity": -0.0
+        }
+      ],
+      "visualStatus": "unresolved; no faithful visual-topology or pivot approval"
+    },
+    {
+      "decision": "document-blocked-source-elevation-step",
+      "from": "hgss:IPKE:r0:matrix:0:cell:21:12",
+      "fromBlocked": true,
+      "fromSurfaces": [
+        {
+          "plate": 19,
+          "yUnity": 1.0
+        }
+      ],
+      "id": "21,12:south:31",
+      "nearestDeltaUnity": 1.0,
+      "reason": "Zero-height source filler BDHC versus source route/town BDHC at0.5 or1 Unity; at least one static collision bit set. Model altitude is not a traversal offset.",
+      "to": "hgss:IPKE:r0:matrix:0:cell:21:13",
+      "toBlocked": true,
+      "toSurfaces": [
+        {
+          "plate": 0,
+          "yUnity": -0.0
+        }
+      ],
+      "visualStatus": "unresolved; no faithful visual-topology or pivot approval"
+    },
+    {
+      "decision": "document-blocked-source-elevation-step",
+      "from": "hgss:IPKE:r0:matrix:0:cell:22:11",
+      "fromBlocked": true,
+      "fromSurfaces": [
+        {
+          "plate": 0,
+          "yUnity": -0.0
+        }
+      ],
+      "id": "22,11:south:00",
+      "nearestDeltaUnity": 1.0,
+      "reason": "Zero-height source filler BDHC versus source route/town BDHC at0.5 or1 Unity; at least one static collision bit set. Model altitude is not a traversal offset.",
+      "to": "hgss:IPKE:r0:matrix:0:cell:22:12",
+      "toBlocked": true,
+      "toSurfaces": [
+        {
+          "plate": 8,
+          "yUnity": 1.0
+        }
+      ],
+      "visualStatus": "unresolved; no faithful visual-topology or pivot approval"
+    },
+    {
+      "decision": "document-blocked-source-elevation-step",
+      "from": "hgss:IPKE:r0:matrix:0:cell:22:11",
+      "fromBlocked": true,
+      "fromSurfaces": [
+        {
+          "plate": 0,
+          "yUnity": -0.0
+        }
+      ],
+      "id": "22,11:south:01",
+      "nearestDeltaUnity": 1.0,
+      "reason": "Zero-height source filler BDHC versus source route/town BDHC at0.5 or1 Unity; at least one static collision bit set. Model altitude is not a traversal offset.",
+      "to": "hgss:IPKE:r0:matrix:0:cell:22:12",
+      "toBlocked": true,
+      "toSurfaces": [
+        {
+          "plate": 8,
+          "yUnity": 1.0
+        }
+      ],
+      "visualStatus": "unresolved; no faithful visual-topology or pivot approval"
+    },
+    {
+      "decision": "document-blocked-source-elevation-step",
+      "from": "hgss:IPKE:r0:matrix:0:cell:22:11",
+      "fromBlocked": true,
+      "fromSurfaces": [
+        {
+          "plate": 0,
+          "yUnity": -0.0
+        }
+      ],
+      "id": "22,11:south:02",
+      "nearestDeltaUnity": 1.0,
+      "reason": "Zero-height source filler BDHC versus source route/town BDHC at0.5 or1 Unity; at least one static collision bit set. Model altitude is not a traversal offset.",
+      "to": "hgss:IPKE:r0:matrix:0:cell:22:12",
+      "toBlocked": true,
+      "toSurfaces": [
+        {
+          "plate": 8,
+          "yUnity": 1.0
+        }
+      ],
+      "visualStatus": "unresolved; no faithful visual-topology or pivot approval"
+    },
+    {
+      "decision": "document-blocked-source-elevation-step",
+      "from": "hgss:IPKE:r0:matrix:0:cell:22:11",
+      "fromBlocked": true,
+      "fromSurfaces": [
+        {
+          "plate": 0,
+          "yUnity": -0.0
+        }
+      ],
+      "id": "22,11:south:03",
+      "nearestDeltaUnity": 1.0,
+      "reason": "Zero-height source filler BDHC versus source route/town BDHC at0.5 or1 Unity; at least one static collision bit set. Model altitude is not a traversal offset.",
+      "to": "hgss:IPKE:r0:matrix:0:cell:22:12",
+      "toBlocked": true,
+      "toSurfaces": [
+        {
+          "plate": 8,
+          "yUnity": 1.0
+        }
+      ],
+      "visualStatus": "unresolved; no faithful visual-topology or pivot approval"
+    },
+    {
+      "decision": "document-blocked-source-elevation-step",
+      "from": "hgss:IPKE:r0:matrix:0:cell:22:11",
+      "fromBlocked": true,
+      "fromSurfaces": [
+        {
+          "plate": 0,
+          "yUnity": -0.0
+        }
+      ],
+      "id": "22,11:south:04",
+      "nearestDeltaUnity": 1.0,
+      "reason": "Zero-height source filler BDHC versus source route/town BDHC at0.5 or1 Unity; at least one static collision bit set. Model altitude is not a traversal offset.",
+      "to": "hgss:IPKE:r0:matrix:0:cell:22:12",
+      "toBlocked": true,
+      "toSurfaces": [
+        {
+          "plate": 8,
+          "yUnity": 1.0
+        }
+      ],
+      "visualStatus": "unresolved; no faithful visual-topology or pivot approval"
+    },
+    {
+      "decision": "document-blocked-source-elevation-step",
+      "from": "hgss:IPKE:r0:matrix:0:cell:22:11",
+      "fromBlocked": true,
+      "fromSurfaces": [
+        {
+          "plate": 0,
+          "yUnity": -0.0
+        }
+      ],
+      "id": "22,11:south:05",
+      "nearestDeltaUnity": 1.0,
+      "reason": "Zero-height source filler BDHC versus source route/town BDHC at0.5 or1 Unity; at least one static collision bit set. Model altitude is not a traversal offset.",
+      "to": "hgss:IPKE:r0:matrix:0:cell:22:12",
+      "toBlocked": true,
+      "toSurfaces": [
+        {
+          "plate": 8,
+          "yUnity": 1.0
+        }
+      ],
+      "visualStatus": "unresolved; no faithful visual-topology or pivot approval"
+    },
+    {
+      "decision": "document-blocked-source-elevation-step",
+      "from": "hgss:IPKE:r0:matrix:0:cell:22:11",
+      "fromBlocked": true,
+      "fromSurfaces": [
+        {
+          "plate": 0,
+          "yUnity": -0.0
+        }
+      ],
+      "id": "22,11:south:06",
+      "nearestDeltaUnity": 1.0,
+      "reason": "Zero-height source filler BDHC versus source route/town BDHC at0.5 or1 Unity; at least one static collision bit set. Model altitude is not a traversal offset.",
+      "to": "hgss:IPKE:r0:matrix:0:cell:22:12",
+      "toBlocked": true,
+      "toSurfaces": [
+        {
+          "plate": 9,
+          "yUnity": 1.0
+        }
+      ],
+      "visualStatus": "unresolved; no faithful visual-topology or pivot approval"
+    },
+    {
+      "decision": "document-blocked-source-elevation-step",
+      "from": "hgss:IPKE:r0:matrix:0:cell:22:11",
+      "fromBlocked": true,
+      "fromSurfaces": [
+        {
+          "plate": 0,
+          "yUnity": -0.0
+        }
+      ],
+      "id": "22,11:south:07",
+      "nearestDeltaUnity": 1.0,
+      "reason": "Zero-height source filler BDHC versus source route/town BDHC at0.5 or1 Unity; at least one static collision bit set. Model altitude is not a traversal offset.",
+      "to": "hgss:IPKE:r0:matrix:0:cell:22:12",
+      "toBlocked": true,
+      "toSurfaces": [
+        {
+          "plate": 9,
+          "yUnity": 1.0
+        }
+      ],
+      "visualStatus": "unresolved; no faithful visual-topology or pivot approval"
+    },
+    {
+      "decision": "document-blocked-source-elevation-step",
+      "from": "hgss:IPKE:r0:matrix:0:cell:22:11",
+      "fromBlocked": true,
+      "fromSurfaces": [
+        {
+          "plate": 0,
+          "yUnity": -0.0
+        }
+      ],
+      "id": "22,11:south:08",
+      "nearestDeltaUnity": 1.0,
+      "reason": "Zero-height source filler BDHC versus source route/town BDHC at0.5 or1 Unity; at least one static collision bit set. Model altitude is not a traversal offset.",
+      "to": "hgss:IPKE:r0:matrix:0:cell:22:12",
+      "toBlocked": true,
+      "toSurfaces": [
+        {
+          "plate": 9,
+          "yUnity": 1.0
+        }
+      ],
+      "visualStatus": "unresolved; no faithful visual-topology or pivot approval"
+    },
+    {
+      "decision": "document-blocked-source-elevation-step",
+      "from": "hgss:IPKE:r0:matrix:0:cell:22:11",
+      "fromBlocked": true,
+      "fromSurfaces": [
+        {
+          "plate": 0,
+          "yUnity": -0.0
+        }
+      ],
+      "id": "22,11:south:09",
+      "nearestDeltaUnity": 1.0,
+      "reason": "Zero-height source filler BDHC versus source route/town BDHC at0.5 or1 Unity; at least one static collision bit set. Model altitude is not a traversal offset.",
+      "to": "hgss:IPKE:r0:matrix:0:cell:22:12",
+      "toBlocked": true,
+      "toSurfaces": [
+        {
+          "plate": 9,
+          "yUnity": 1.0
+        }
+      ],
+      "visualStatus": "unresolved; no faithful visual-topology or pivot approval"
+    },
+    {
+      "decision": "document-blocked-source-elevation-step",
+      "from": "hgss:IPKE:r0:matrix:0:cell:22:11",
+      "fromBlocked": true,
+      "fromSurfaces": [
+        {
+          "plate": 0,
+          "yUnity": -0.0
+        }
+      ],
+      "id": "22,11:south:10",
+      "nearestDeltaUnity": 1.0,
+      "reason": "Zero-height source filler BDHC versus source route/town BDHC at0.5 or1 Unity; at least one static collision bit set. Model altitude is not a traversal offset.",
+      "to": "hgss:IPKE:r0:matrix:0:cell:22:12",
+      "toBlocked": true,
+      "toSurfaces": [
+        {
+          "plate": 9,
+          "yUnity": 1.0
+        }
+      ],
+      "visualStatus": "unresolved; no faithful visual-topology or pivot approval"
+    },
+    {
+      "decision": "document-blocked-source-elevation-step",
+      "from": "hgss:IPKE:r0:matrix:0:cell:22:11",
+      "fromBlocked": true,
+      "fromSurfaces": [
+        {
+          "plate": 0,
+          "yUnity": -0.0
+        }
+      ],
+      "id": "22,11:south:11",
+      "nearestDeltaUnity": 1.0,
+      "reason": "Zero-height source filler BDHC versus source route/town BDHC at0.5 or1 Unity; at least one static collision bit set. Model altitude is not a traversal offset.",
+      "to": "hgss:IPKE:r0:matrix:0:cell:22:12",
+      "toBlocked": true,
+      "toSurfaces": [
+        {
+          "plate": 9,
+          "yUnity": 1.0
+        }
+      ],
+      "visualStatus": "unresolved; no faithful visual-topology or pivot approval"
+    },
+    {
+      "decision": "document-blocked-source-elevation-step",
+      "from": "hgss:IPKE:r0:matrix:0:cell:22:11",
+      "fromBlocked": true,
+      "fromSurfaces": [
+        {
+          "plate": 0,
+          "yUnity": -0.0
+        }
+      ],
+      "id": "22,11:south:12",
+      "nearestDeltaUnity": 1.0,
+      "reason": "Zero-height source filler BDHC versus source route/town BDHC at0.5 or1 Unity; at least one static collision bit set. Model altitude is not a traversal offset.",
+      "to": "hgss:IPKE:r0:matrix:0:cell:22:12",
+      "toBlocked": true,
+      "toSurfaces": [
+        {
+          "plate": 9,
+          "yUnity": 1.0
+        }
+      ],
+      "visualStatus": "unresolved; no faithful visual-topology or pivot approval"
+    },
+    {
+      "decision": "document-blocked-source-elevation-step",
+      "from": "hgss:IPKE:r0:matrix:0:cell:22:11",
+      "fromBlocked": true,
+      "fromSurfaces": [
+        {
+          "plate": 0,
+          "yUnity": -0.0
+        }
+      ],
+      "id": "22,11:south:13",
+      "nearestDeltaUnity": 1.0,
+      "reason": "Zero-height source filler BDHC versus source route/town BDHC at0.5 or1 Unity; at least one static collision bit set. Model altitude is not a traversal offset.",
+      "to": "hgss:IPKE:r0:matrix:0:cell:22:12",
+      "toBlocked": true,
+      "toSurfaces": [
+        {
+          "plate": 9,
+          "yUnity": 1.0
+        }
+      ],
+      "visualStatus": "unresolved; no faithful visual-topology or pivot approval"
+    },
+    {
+      "decision": "document-blocked-source-elevation-step",
+      "from": "hgss:IPKE:r0:matrix:0:cell:22:11",
+      "fromBlocked": true,
+      "fromSurfaces": [
+        {
+          "plate": 0,
+          "yUnity": -0.0
+        }
+      ],
+      "id": "22,11:south:14",
+      "nearestDeltaUnity": 1.0,
+      "reason": "Zero-height source filler BDHC versus source route/town BDHC at0.5 or1 Unity; at least one static collision bit set. Model altitude is not a traversal offset.",
+      "to": "hgss:IPKE:r0:matrix:0:cell:22:12",
+      "toBlocked": true,
+      "toSurfaces": [
+        {
+          "plate": 9,
+          "yUnity": 1.0
+        }
+      ],
+      "visualStatus": "unresolved; no faithful visual-topology or pivot approval"
+    },
+    {
+      "decision": "document-blocked-source-elevation-step",
+      "from": "hgss:IPKE:r0:matrix:0:cell:22:11",
+      "fromBlocked": true,
+      "fromSurfaces": [
+        {
+          "plate": 0,
+          "yUnity": -0.0
+        }
+      ],
+      "id": "22,11:south:15",
+      "nearestDeltaUnity": 1.0,
+      "reason": "Zero-height source filler BDHC versus source route/town BDHC at0.5 or1 Unity; at least one static collision bit set. Model altitude is not a traversal offset.",
+      "to": "hgss:IPKE:r0:matrix:0:cell:22:12",
+      "toBlocked": true,
+      "toSurfaces": [
+        {
+          "plate": 9,
+          "yUnity": 1.0
+        }
+      ],
+      "visualStatus": "unresolved; no faithful visual-topology or pivot approval"
+    },
+    {
+      "decision": "document-blocked-source-elevation-step",
+      "from": "hgss:IPKE:r0:matrix:0:cell:22:11",
+      "fromBlocked": true,
+      "fromSurfaces": [
+        {
+          "plate": 0,
+          "yUnity": -0.0
+        }
+      ],
+      "id": "22,11:south:16",
+      "nearestDeltaUnity": 1.0,
+      "reason": "Zero-height source filler BDHC versus source route/town BDHC at0.5 or1 Unity; at least one static collision bit set. Model altitude is not a traversal offset.",
+      "to": "hgss:IPKE:r0:matrix:0:cell:22:12",
+      "toBlocked": true,
+      "toSurfaces": [
+        {
+          "plate": 9,
+          "yUnity": 1.0
+        }
+      ],
+      "visualStatus": "unresolved; no faithful visual-topology or pivot approval"
+    },
+    {
+      "decision": "document-blocked-source-elevation-step",
+      "from": "hgss:IPKE:r0:matrix:0:cell:22:11",
+      "fromBlocked": true,
+      "fromSurfaces": [
+        {
+          "plate": 0,
+          "yUnity": -0.0
+        }
+      ],
+      "id": "22,11:south:17",
+      "nearestDeltaUnity": 1.0,
+      "reason": "Zero-height source filler BDHC versus source route/town BDHC at0.5 or1 Unity; at least one static collision bit set. Model altitude is not a traversal offset.",
+      "to": "hgss:IPKE:r0:matrix:0:cell:22:12",
+      "toBlocked": true,
+      "toSurfaces": [
+        {
+          "plate": 9,
+          "yUnity": 1.0
+        }
+      ],
+      "visualStatus": "unresolved; no faithful visual-topology or pivot approval"
+    },
+    {
+      "decision": "document-blocked-source-elevation-step",
+      "from": "hgss:IPKE:r0:matrix:0:cell:22:11",
+      "fromBlocked": true,
+      "fromSurfaces": [
+        {
+          "plate": 0,
+          "yUnity": -0.0
+        }
+      ],
+      "id": "22,11:south:18",
+      "nearestDeltaUnity": 1.0,
+      "reason": "Zero-height source filler BDHC versus source route/town BDHC at0.5 or1 Unity; at least one static collision bit set. Model altitude is not a traversal offset.",
+      "to": "hgss:IPKE:r0:matrix:0:cell:22:12",
+      "toBlocked": true,
+      "toSurfaces": [
+        {
+          "plate": 10,
+          "yUnity": 1.0
+        }
+      ],
+      "visualStatus": "unresolved; no faithful visual-topology or pivot approval"
+    },
+    {
+      "decision": "document-blocked-source-elevation-step",
+      "from": "hgss:IPKE:r0:matrix:0:cell:22:11",
+      "fromBlocked": true,
+      "fromSurfaces": [
+        {
+          "plate": 0,
+          "yUnity": -0.0
+        }
+      ],
+      "id": "22,11:south:19",
+      "nearestDeltaUnity": 1.0,
+      "reason": "Zero-height source filler BDHC versus source route/town BDHC at0.5 or1 Unity; at least one static collision bit set. Model altitude is not a traversal offset.",
+      "to": "hgss:IPKE:r0:matrix:0:cell:22:12",
+      "toBlocked": true,
+      "toSurfaces": [
+        {
+          "plate": 10,
+          "yUnity": 1.0
+        }
+      ],
+      "visualStatus": "unresolved; no faithful visual-topology or pivot approval"
+    },
+    {
+      "decision": "document-blocked-source-elevation-step",
+      "from": "hgss:IPKE:r0:matrix:0:cell:22:11",
+      "fromBlocked": true,
+      "fromSurfaces": [
+        {
+          "plate": 0,
+          "yUnity": -0.0
+        }
+      ],
+      "id": "22,11:south:20",
+      "nearestDeltaUnity": 1.0,
+      "reason": "Zero-height source filler BDHC versus source route/town BDHC at0.5 or1 Unity; at least one static collision bit set. Model altitude is not a traversal offset.",
+      "to": "hgss:IPKE:r0:matrix:0:cell:22:12",
+      "toBlocked": true,
+      "toSurfaces": [
+        {
+          "plate": 10,
+          "yUnity": 1.0
+        }
+      ],
+      "visualStatus": "unresolved; no faithful visual-topology or pivot approval"
+    },
+    {
+      "decision": "document-blocked-source-elevation-step",
+      "from": "hgss:IPKE:r0:matrix:0:cell:22:11",
+      "fromBlocked": true,
+      "fromSurfaces": [
+        {
+          "plate": 0,
+          "yUnity": -0.0
+        }
+      ],
+      "id": "22,11:south:21",
+      "nearestDeltaUnity": 1.0,
+      "reason": "Zero-height source filler BDHC versus source route/town BDHC at0.5 or1 Unity; at least one static collision bit set. Model altitude is not a traversal offset.",
+      "to": "hgss:IPKE:r0:matrix:0:cell:22:12",
+      "toBlocked": true,
+      "toSurfaces": [
+        {
+          "plate": 10,
+          "yUnity": 1.0
+        }
+      ],
+      "visualStatus": "unresolved; no faithful visual-topology or pivot approval"
+    },
+    {
+      "decision": "document-source-coverage-gap",
+      "from": "hgss:IPKE:r0:matrix:0:cell:22:11",
+      "fromBlocked": true,
+      "fromSurfaces": [
+        {
+          "plate": 0,
+          "yUnity": -0.0
+        }
+      ],
+      "id": "22,11:south:22",
+      "nearestDeltaUnity": null,
+      "reason": "No source rectangle at land11 north X samples22..31; both adjacent static collision bits set; no plate discarded.",
+      "to": "hgss:IPKE:r0:matrix:0:cell:22:12",
+      "toBlocked": true,
+      "toSurfaces": [],
+      "visualStatus": "unresolved; no faithful visual-topology or pivot approval"
+    },
+    {
+      "decision": "document-source-coverage-gap",
+      "from": "hgss:IPKE:r0:matrix:0:cell:22:11",
+      "fromBlocked": true,
+      "fromSurfaces": [
+        {
+          "plate": 0,
+          "yUnity": -0.0
+        }
+      ],
+      "id": "22,11:south:23",
+      "nearestDeltaUnity": null,
+      "reason": "No source rectangle at land11 north X samples22..31; both adjacent static collision bits set; no plate discarded.",
+      "to": "hgss:IPKE:r0:matrix:0:cell:22:12",
+      "toBlocked": true,
+      "toSurfaces": [],
+      "visualStatus": "unresolved; no faithful visual-topology or pivot approval"
+    },
+    {
+      "decision": "document-source-coverage-gap",
+      "from": "hgss:IPKE:r0:matrix:0:cell:22:11",
+      "fromBlocked": true,
+      "fromSurfaces": [
+        {
+          "plate": 0,
+          "yUnity": -0.0
+        }
+      ],
+      "id": "22,11:south:24",
+      "nearestDeltaUnity": null,
+      "reason": "No source rectangle at land11 north X samples22..31; both adjacent static collision bits set; no plate discarded.",
+      "to": "hgss:IPKE:r0:matrix:0:cell:22:12",
+      "toBlocked": true,
+      "toSurfaces": [],
+      "visualStatus": "unresolved; no faithful visual-topology or pivot approval"
+    },
+    {
+      "decision": "document-source-coverage-gap",
+      "from": "hgss:IPKE:r0:matrix:0:cell:22:11",
+      "fromBlocked": true,
+      "fromSurfaces": [
+        {
+          "plate": 0,
+          "yUnity": -0.0
+        }
+      ],
+      "id": "22,11:south:25",
+      "nearestDeltaUnity": null,
+      "reason": "No source rectangle at land11 north X samples22..31; both adjacent static collision bits set; no plate discarded.",
+      "to": "hgss:IPKE:r0:matrix:0:cell:22:12",
+      "toBlocked": true,
+      "toSurfaces": [],
+      "visualStatus": "unresolved; no faithful visual-topology or pivot approval"
+    },
+    {
+      "decision": "document-source-coverage-gap",
+      "from": "hgss:IPKE:r0:matrix:0:cell:22:11",
+      "fromBlocked": true,
+      "fromSurfaces": [
+        {
+          "plate": 0,
+          "yUnity": -0.0
+        }
+      ],
+      "id": "22,11:south:26",
+      "nearestDeltaUnity": null,
+      "reason": "No source rectangle at land11 north X samples22..31; both adjacent static collision bits set; no plate discarded.",
+      "to": "hgss:IPKE:r0:matrix:0:cell:22:12",
+      "toBlocked": true,
+      "toSurfaces": [],
+      "visualStatus": "unresolved; no faithful visual-topology or pivot approval"
+    },
+    {
+      "decision": "document-source-coverage-gap",
+      "from": "hgss:IPKE:r0:matrix:0:cell:22:11",
+      "fromBlocked": true,
+      "fromSurfaces": [
+        {
+          "plate": 0,
+          "yUnity": -0.0
+        }
+      ],
+      "id": "22,11:south:27",
+      "nearestDeltaUnity": null,
+      "reason": "No source rectangle at land11 north X samples22..31; both adjacent static collision bits set; no plate discarded.",
+      "to": "hgss:IPKE:r0:matrix:0:cell:22:12",
+      "toBlocked": true,
+      "toSurfaces": [],
+      "visualStatus": "unresolved; no faithful visual-topology or pivot approval"
+    },
+    {
+      "decision": "document-source-coverage-gap",
+      "from": "hgss:IPKE:r0:matrix:0:cell:22:11",
+      "fromBlocked": true,
+      "fromSurfaces": [
+        {
+          "plate": 0,
+          "yUnity": -0.0
+        }
+      ],
+      "id": "22,11:south:28",
+      "nearestDeltaUnity": null,
+      "reason": "No source rectangle at land11 north X samples22..31; both adjacent static collision bits set; no plate discarded.",
+      "to": "hgss:IPKE:r0:matrix:0:cell:22:12",
+      "toBlocked": true,
+      "toSurfaces": [],
+      "visualStatus": "unresolved; no faithful visual-topology or pivot approval"
+    },
+    {
+      "decision": "document-source-coverage-gap",
+      "from": "hgss:IPKE:r0:matrix:0:cell:22:11",
+      "fromBlocked": true,
+      "fromSurfaces": [
+        {
+          "plate": 0,
+          "yUnity": -0.0
+        }
+      ],
+      "id": "22,11:south:29",
+      "nearestDeltaUnity": null,
+      "reason": "No source rectangle at land11 north X samples22..31; both adjacent static collision bits set; no plate discarded.",
+      "to": "hgss:IPKE:r0:matrix:0:cell:22:12",
+      "toBlocked": true,
+      "toSurfaces": [],
+      "visualStatus": "unresolved; no faithful visual-topology or pivot approval"
+    },
+    {
+      "decision": "document-source-coverage-gap",
+      "from": "hgss:IPKE:r0:matrix:0:cell:22:11",
+      "fromBlocked": true,
+      "fromSurfaces": [
+        {
+          "plate": 0,
+          "yUnity": -0.0
+        }
+      ],
+      "id": "22,11:south:30",
+      "nearestDeltaUnity": null,
+      "reason": "No source rectangle at land11 north X samples22..31; both adjacent static collision bits set; no plate discarded.",
+      "to": "hgss:IPKE:r0:matrix:0:cell:22:12",
+      "toBlocked": true,
+      "toSurfaces": [],
+      "visualStatus": "unresolved; no faithful visual-topology or pivot approval"
+    },
+    {
+      "decision": "document-source-coverage-gap",
+      "from": "hgss:IPKE:r0:matrix:0:cell:22:11",
+      "fromBlocked": true,
+      "fromSurfaces": [
+        {
+          "plate": 0,
+          "yUnity": -0.0
+        }
+      ],
+      "id": "22,11:south:31",
+      "nearestDeltaUnity": null,
+      "reason": "No source rectangle at land11 north X samples22..31; both adjacent static collision bits set; no plate discarded.",
+      "to": "hgss:IPKE:r0:matrix:0:cell:22:12",
+      "toBlocked": true,
+      "toSurfaces": [],
+      "visualStatus": "unresolved; no faithful visual-topology or pivot approval"
+    },
+    {
+      "decision": "document-blocked-source-elevation-step",
+      "from": "hgss:IPKE:r0:matrix:0:cell:22:12",
+      "fromBlocked": true,
+      "fromSurfaces": [
+        {
+          "plate": 7,
+          "yUnity": 1.0
+        }
+      ],
+      "id": "22,12:south:00",
+      "nearestDeltaUnity": 1.0,
+      "reason": "Zero-height source filler BDHC versus source route/town BDHC at0.5 or1 Unity; at least one static collision bit set. Model altitude is not a traversal offset.",
+      "to": "hgss:IPKE:r0:matrix:0:cell:22:13",
+      "toBlocked": true,
+      "toSurfaces": [
+        {
+          "plate": 0,
+          "yUnity": -0.0
+        }
+      ],
+      "visualStatus": "unresolved; no faithful visual-topology or pivot approval"
+    },
+    {
+      "decision": "document-blocked-source-elevation-step",
+      "from": "hgss:IPKE:r0:matrix:0:cell:22:12",
+      "fromBlocked": true,
+      "fromSurfaces": [
+        {
+          "plate": 7,
+          "yUnity": 1.0
+        }
+      ],
+      "id": "22,12:south:01",
+      "nearestDeltaUnity": 1.0,
+      "reason": "Zero-height source filler BDHC versus source route/town BDHC at0.5 or1 Unity; at least one static collision bit set. Model altitude is not a traversal offset.",
+      "to": "hgss:IPKE:r0:matrix:0:cell:22:13",
+      "toBlocked": true,
+      "toSurfaces": [
+        {
+          "plate": 0,
+          "yUnity": -0.0
+        }
+      ],
+      "visualStatus": "unresolved; no faithful visual-topology or pivot approval"
+    },
+    {
+      "decision": "document-blocked-source-elevation-step",
+      "from": "hgss:IPKE:r0:matrix:0:cell:22:12",
+      "fromBlocked": true,
+      "fromSurfaces": [
+        {
+          "plate": 7,
+          "yUnity": 1.0
+        }
+      ],
+      "id": "22,12:south:02",
+      "nearestDeltaUnity": 1.0,
+      "reason": "Zero-height source filler BDHC versus source route/town BDHC at0.5 or1 Unity; at least one static collision bit set. Model altitude is not a traversal offset.",
+      "to": "hgss:IPKE:r0:matrix:0:cell:22:13",
+      "toBlocked": true,
+      "toSurfaces": [
+        {
+          "plate": 0,
+          "yUnity": -0.0
+        }
+      ],
+      "visualStatus": "unresolved; no faithful visual-topology or pivot approval"
+    },
+    {
+      "decision": "document-blocked-source-elevation-step",
+      "from": "hgss:IPKE:r0:matrix:0:cell:22:12",
+      "fromBlocked": true,
+      "fromSurfaces": [
+        {
+          "plate": 7,
+          "yUnity": 1.0
+        }
+      ],
+      "id": "22,12:south:03",
+      "nearestDeltaUnity": 1.0,
+      "reason": "Zero-height source filler BDHC versus source route/town BDHC at0.5 or1 Unity; at least one static collision bit set. Model altitude is not a traversal offset.",
+      "to": "hgss:IPKE:r0:matrix:0:cell:22:13",
+      "toBlocked": true,
+      "toSurfaces": [
+        {
+          "plate": 0,
+          "yUnity": -0.0
+        }
+      ],
+      "visualStatus": "unresolved; no faithful visual-topology or pivot approval"
+    },
+    {
+      "decision": "document-blocked-source-elevation-step",
+      "from": "hgss:IPKE:r0:matrix:0:cell:22:12",
+      "fromBlocked": true,
+      "fromSurfaces": [
+        {
+          "plate": 7,
+          "yUnity": 1.0
+        }
+      ],
+      "id": "22,12:south:04",
+      "nearestDeltaUnity": 1.0,
+      "reason": "Zero-height source filler BDHC versus source route/town BDHC at0.5 or1 Unity; at least one static collision bit set. Model altitude is not a traversal offset.",
+      "to": "hgss:IPKE:r0:matrix:0:cell:22:13",
+      "toBlocked": true,
+      "toSurfaces": [
+        {
+          "plate": 0,
+          "yUnity": -0.0
+        }
+      ],
+      "visualStatus": "unresolved; no faithful visual-topology or pivot approval"
+    },
+    {
+      "decision": "document-blocked-source-elevation-step",
+      "from": "hgss:IPKE:r0:matrix:0:cell:22:12",
+      "fromBlocked": true,
+      "fromSurfaces": [
+        {
+          "plate": 7,
+          "yUnity": 1.0
+        }
+      ],
+      "id": "22,12:south:05",
+      "nearestDeltaUnity": 1.0,
+      "reason": "Zero-height source filler BDHC versus source route/town BDHC at0.5 or1 Unity; at least one static collision bit set. Model altitude is not a traversal offset.",
+      "to": "hgss:IPKE:r0:matrix:0:cell:22:13",
+      "toBlocked": true,
+      "toSurfaces": [
+        {
+          "plate": 0,
+          "yUnity": -0.0
+        }
+      ],
+      "visualStatus": "unresolved; no faithful visual-topology or pivot approval"
+    },
+    {
+      "decision": "document-blocked-source-elevation-step",
+      "from": "hgss:IPKE:r0:matrix:0:cell:22:12",
+      "fromBlocked": false,
+      "fromSurfaces": [
+        {
+          "plate": 2,
+          "yUnity": 0.5
+        }
+      ],
+      "id": "22,12:south:06",
+      "nearestDeltaUnity": 0.5,
+      "reason": "Zero-height source filler BDHC versus source route/town BDHC at0.5 or1 Unity; at least one static collision bit set. Model altitude is not a traversal offset.",
+      "to": "hgss:IPKE:r0:matrix:0:cell:22:13",
+      "toBlocked": true,
+      "toSurfaces": [
+        {
+          "plate": 0,
+          "yUnity": -0.0
+        }
+      ],
+      "visualStatus": "unresolved; no faithful visual-topology or pivot approval"
+    },
+    {
+      "decision": "document-blocked-source-elevation-step",
+      "from": "hgss:IPKE:r0:matrix:0:cell:22:12",
+      "fromBlocked": false,
+      "fromSurfaces": [
+        {
+          "plate": 2,
+          "yUnity": 0.5
+        }
+      ],
+      "id": "22,12:south:07",
+      "nearestDeltaUnity": 0.5,
+      "reason": "Zero-height source filler BDHC versus source route/town BDHC at0.5 or1 Unity; at least one static collision bit set. Model altitude is not a traversal offset.",
+      "to": "hgss:IPKE:r0:matrix:0:cell:22:13",
+      "toBlocked": true,
+      "toSurfaces": [
+        {
+          "plate": 0,
+          "yUnity": -0.0
+        }
+      ],
+      "visualStatus": "unresolved; no faithful visual-topology or pivot approval"
+    },
+    {
+      "decision": "document-blocked-source-elevation-step",
+      "from": "hgss:IPKE:r0:matrix:0:cell:22:12",
+      "fromBlocked": false,
+      "fromSurfaces": [
+        {
+          "plate": 2,
+          "yUnity": 0.5
+        }
+      ],
+      "id": "22,12:south:08",
+      "nearestDeltaUnity": 0.5,
+      "reason": "Zero-height source filler BDHC versus source route/town BDHC at0.5 or1 Unity; at least one static collision bit set. Model altitude is not a traversal offset.",
+      "to": "hgss:IPKE:r0:matrix:0:cell:22:13",
+      "toBlocked": true,
+      "toSurfaces": [
+        {
+          "plate": 0,
+          "yUnity": -0.0
+        }
+      ],
+      "visualStatus": "unresolved; no faithful visual-topology or pivot approval"
+    },
+    {
+      "decision": "document-blocked-source-elevation-step",
+      "from": "hgss:IPKE:r0:matrix:0:cell:22:12",
+      "fromBlocked": false,
+      "fromSurfaces": [
+        {
+          "plate": 2,
+          "yUnity": 0.5
+        }
+      ],
+      "id": "22,12:south:09",
+      "nearestDeltaUnity": 0.5,
+      "reason": "Zero-height source filler BDHC versus source route/town BDHC at0.5 or1 Unity; at least one static collision bit set. Model altitude is not a traversal offset.",
+      "to": "hgss:IPKE:r0:matrix:0:cell:22:13",
+      "toBlocked": true,
+      "toSurfaces": [
+        {
+          "plate": 0,
+          "yUnity": -0.0
+        }
+      ],
+      "visualStatus": "unresolved; no faithful visual-topology or pivot approval"
+    },
+    {
+      "decision": "document-blocked-source-elevation-step",
+      "from": "hgss:IPKE:r0:matrix:0:cell:22:12",
+      "fromBlocked": false,
+      "fromSurfaces": [
+        {
+          "plate": 2,
+          "yUnity": 0.5
+        }
+      ],
+      "id": "22,12:south:10",
+      "nearestDeltaUnity": 0.5,
+      "reason": "Zero-height source filler BDHC versus source route/town BDHC at0.5 or1 Unity; at least one static collision bit set. Model altitude is not a traversal offset.",
+      "to": "hgss:IPKE:r0:matrix:0:cell:22:13",
+      "toBlocked": true,
+      "toSurfaces": [
+        {
+          "plate": 0,
+          "yUnity": -0.0
+        }
+      ],
+      "visualStatus": "unresolved; no faithful visual-topology or pivot approval"
+    },
+    {
+      "decision": "document-blocked-source-elevation-step",
+      "from": "hgss:IPKE:r0:matrix:0:cell:22:12",
+      "fromBlocked": false,
+      "fromSurfaces": [
+        {
+          "plate": 2,
+          "yUnity": 0.5
+        }
+      ],
+      "id": "22,12:south:11",
+      "nearestDeltaUnity": 0.5,
+      "reason": "Zero-height source filler BDHC versus source route/town BDHC at0.5 or1 Unity; at least one static collision bit set. Model altitude is not a traversal offset.",
+      "to": "hgss:IPKE:r0:matrix:0:cell:22:13",
+      "toBlocked": true,
+      "toSurfaces": [
+        {
+          "plate": 0,
+          "yUnity": -0.0
+        }
+      ],
+      "visualStatus": "unresolved; no faithful visual-topology or pivot approval"
+    },
+    {
+      "decision": "document-blocked-source-elevation-step",
+      "from": "hgss:IPKE:r0:matrix:0:cell:22:12",
+      "fromBlocked": false,
+      "fromSurfaces": [
+        {
+          "plate": 2,
+          "yUnity": 0.5
+        }
+      ],
+      "id": "22,12:south:12",
+      "nearestDeltaUnity": 0.5,
+      "reason": "Zero-height source filler BDHC versus source route/town BDHC at0.5 or1 Unity; at least one static collision bit set. Model altitude is not a traversal offset.",
+      "to": "hgss:IPKE:r0:matrix:0:cell:22:13",
+      "toBlocked": true,
+      "toSurfaces": [
+        {
+          "plate": 0,
+          "yUnity": -0.0
+        }
+      ],
+      "visualStatus": "unresolved; no faithful visual-topology or pivot approval"
+    },
+    {
+      "decision": "document-blocked-source-elevation-step",
+      "from": "hgss:IPKE:r0:matrix:0:cell:22:12",
+      "fromBlocked": false,
+      "fromSurfaces": [
+        {
+          "plate": 2,
+          "yUnity": 0.5
+        }
+      ],
+      "id": "22,12:south:13",
+      "nearestDeltaUnity": 0.5,
+      "reason": "Zero-height source filler BDHC versus source route/town BDHC at0.5 or1 Unity; at least one static collision bit set. Model altitude is not a traversal offset.",
+      "to": "hgss:IPKE:r0:matrix:0:cell:22:13",
+      "toBlocked": true,
+      "toSurfaces": [
+        {
+          "plate": 0,
+          "yUnity": -0.0
+        }
+      ],
+      "visualStatus": "unresolved; no faithful visual-topology or pivot approval"
+    },
+    {
+      "decision": "document-blocked-source-elevation-step",
+      "from": "hgss:IPKE:r0:matrix:0:cell:22:12",
+      "fromBlocked": false,
+      "fromSurfaces": [
+        {
+          "plate": 2,
+          "yUnity": 0.5
+        }
+      ],
+      "id": "22,12:south:14",
+      "nearestDeltaUnity": 0.5,
+      "reason": "Zero-height source filler BDHC versus source route/town BDHC at0.5 or1 Unity; at least one static collision bit set. Model altitude is not a traversal offset.",
+      "to": "hgss:IPKE:r0:matrix:0:cell:22:13",
+      "toBlocked": true,
+      "toSurfaces": [
+        {
+          "plate": 0,
+          "yUnity": -0.0
+        }
+      ],
+      "visualStatus": "unresolved; no faithful visual-topology or pivot approval"
+    },
+    {
+      "decision": "document-blocked-source-elevation-step",
+      "from": "hgss:IPKE:r0:matrix:0:cell:22:12",
+      "fromBlocked": false,
+      "fromSurfaces": [
+        {
+          "plate": 2,
+          "yUnity": 0.5
+        }
+      ],
+      "id": "22,12:south:15",
+      "nearestDeltaUnity": 0.5,
+      "reason": "Zero-height source filler BDHC versus source route/town BDHC at0.5 or1 Unity; at least one static collision bit set. Model altitude is not a traversal offset.",
+      "to": "hgss:IPKE:r0:matrix:0:cell:22:13",
+      "toBlocked": true,
+      "toSurfaces": [
+        {
+          "plate": 0,
+          "yUnity": -0.0
+        }
+      ],
+      "visualStatus": "unresolved; no faithful visual-topology or pivot approval"
+    },
+    {
+      "decision": "document-blocked-source-elevation-step",
+      "from": "hgss:IPKE:r0:matrix:0:cell:22:12",
+      "fromBlocked": false,
+      "fromSurfaces": [
+        {
+          "plate": 5,
+          "yUnity": 0.5
+        }
+      ],
+      "id": "22,12:south:16",
+      "nearestDeltaUnity": 0.5,
+      "reason": "Zero-height source filler BDHC versus source route/town BDHC at0.5 or1 Unity; at least one static collision bit set. Model altitude is not a traversal offset.",
+      "to": "hgss:IPKE:r0:matrix:0:cell:22:13",
+      "toBlocked": true,
+      "toSurfaces": [
+        {
+          "plate": 0,
+          "yUnity": -0.0
+        }
+      ],
+      "visualStatus": "unresolved; no faithful visual-topology or pivot approval"
+    },
+    {
+      "decision": "document-blocked-source-elevation-step",
+      "from": "hgss:IPKE:r0:matrix:0:cell:22:12",
+      "fromBlocked": false,
+      "fromSurfaces": [
+        {
+          "plate": 5,
+          "yUnity": 0.5
+        }
+      ],
+      "id": "22,12:south:17",
+      "nearestDeltaUnity": 0.5,
+      "reason": "Zero-height source filler BDHC versus source route/town BDHC at0.5 or1 Unity; at least one static collision bit set. Model altitude is not a traversal offset.",
+      "to": "hgss:IPKE:r0:matrix:0:cell:22:13",
+      "toBlocked": true,
+      "toSurfaces": [
+        {
+          "plate": 0,
+          "yUnity": -0.0
+        }
+      ],
+      "visualStatus": "unresolved; no faithful visual-topology or pivot approval"
+    },
+    {
+      "decision": "document-blocked-source-elevation-step",
+      "from": "hgss:IPKE:r0:matrix:0:cell:22:12",
+      "fromBlocked": false,
+      "fromSurfaces": [
+        {
+          "plate": 5,
+          "yUnity": 0.5
+        }
+      ],
+      "id": "22,12:south:18",
+      "nearestDeltaUnity": 0.5,
+      "reason": "Zero-height source filler BDHC versus source route/town BDHC at0.5 or1 Unity; at least one static collision bit set. Model altitude is not a traversal offset.",
+      "to": "hgss:IPKE:r0:matrix:0:cell:22:13",
+      "toBlocked": true,
+      "toSurfaces": [
+        {
+          "plate": 0,
+          "yUnity": -0.0
+        }
+      ],
+      "visualStatus": "unresolved; no faithful visual-topology or pivot approval"
+    },
+    {
+      "decision": "document-blocked-source-elevation-step",
+      "from": "hgss:IPKE:r0:matrix:0:cell:22:12",
+      "fromBlocked": false,
+      "fromSurfaces": [
+        {
+          "plate": 5,
+          "yUnity": 0.5
+        }
+      ],
+      "id": "22,12:south:19",
+      "nearestDeltaUnity": 0.5,
+      "reason": "Zero-height source filler BDHC versus source route/town BDHC at0.5 or1 Unity; at least one static collision bit set. Model altitude is not a traversal offset.",
+      "to": "hgss:IPKE:r0:matrix:0:cell:22:13",
+      "toBlocked": true,
+      "toSurfaces": [
+        {
+          "plate": 0,
+          "yUnity": -0.0
+        }
+      ],
+      "visualStatus": "unresolved; no faithful visual-topology or pivot approval"
+    },
+    {
+      "decision": "document-blocked-source-elevation-step",
+      "from": "hgss:IPKE:r0:matrix:0:cell:22:12",
+      "fromBlocked": false,
+      "fromSurfaces": [
+        {
+          "plate": 5,
+          "yUnity": 0.5
+        }
+      ],
+      "id": "22,12:south:20",
+      "nearestDeltaUnity": 0.5,
+      "reason": "Zero-height source filler BDHC versus source route/town BDHC at0.5 or1 Unity; at least one static collision bit set. Model altitude is not a traversal offset.",
+      "to": "hgss:IPKE:r0:matrix:0:cell:22:13",
+      "toBlocked": true,
+      "toSurfaces": [
+        {
+          "plate": 0,
+          "yUnity": -0.0
+        }
+      ],
+      "visualStatus": "unresolved; no faithful visual-topology or pivot approval"
+    },
+    {
+      "decision": "document-blocked-source-elevation-step",
+      "from": "hgss:IPKE:r0:matrix:0:cell:22:12",
+      "fromBlocked": false,
+      "fromSurfaces": [
+        {
+          "plate": 5,
+          "yUnity": 0.5
+        }
+      ],
+      "id": "22,12:south:21",
+      "nearestDeltaUnity": 0.5,
+      "reason": "Zero-height source filler BDHC versus source route/town BDHC at0.5 or1 Unity; at least one static collision bit set. Model altitude is not a traversal offset.",
+      "to": "hgss:IPKE:r0:matrix:0:cell:22:13",
+      "toBlocked": true,
+      "toSurfaces": [
+        {
+          "plate": 0,
+          "yUnity": -0.0
+        }
+      ],
+      "visualStatus": "unresolved; no faithful visual-topology or pivot approval"
+    },
+    {
+      "decision": "document-blocked-source-elevation-step",
+      "from": "hgss:IPKE:r0:matrix:0:cell:22:12",
+      "fromBlocked": false,
+      "fromSurfaces": [
+        {
+          "plate": 5,
+          "yUnity": 0.5
+        }
+      ],
+      "id": "22,12:south:22",
+      "nearestDeltaUnity": 0.5,
+      "reason": "Zero-height source filler BDHC versus source route/town BDHC at0.5 or1 Unity; at least one static collision bit set. Model altitude is not a traversal offset.",
+      "to": "hgss:IPKE:r0:matrix:0:cell:22:13",
+      "toBlocked": true,
+      "toSurfaces": [
+        {
+          "plate": 0,
+          "yUnity": -0.0
+        }
+      ],
+      "visualStatus": "unresolved; no faithful visual-topology or pivot approval"
+    },
+    {
+      "decision": "document-blocked-source-elevation-step",
+      "from": "hgss:IPKE:r0:matrix:0:cell:22:12",
+      "fromBlocked": false,
+      "fromSurfaces": [
+        {
+          "plate": 5,
+          "yUnity": 0.5
+        }
+      ],
+      "id": "22,12:south:23",
+      "nearestDeltaUnity": 0.5,
+      "reason": "Zero-height source filler BDHC versus source route/town BDHC at0.5 or1 Unity; at least one static collision bit set. Model altitude is not a traversal offset.",
+      "to": "hgss:IPKE:r0:matrix:0:cell:22:13",
+      "toBlocked": true,
+      "toSurfaces": [
+        {
+          "plate": 0,
+          "yUnity": -0.0
+        }
+      ],
+      "visualStatus": "unresolved; no faithful visual-topology or pivot approval"
+    },
+    {
+      "decision": "document-blocked-source-elevation-step",
+      "from": "hgss:IPKE:r0:matrix:0:cell:22:12",
+      "fromBlocked": false,
+      "fromSurfaces": [
+        {
+          "plate": 5,
+          "yUnity": 0.5
+        }
+      ],
+      "id": "22,12:south:24",
+      "nearestDeltaUnity": 0.5,
+      "reason": "Zero-height source filler BDHC versus source route/town BDHC at0.5 or1 Unity; at least one static collision bit set. Model altitude is not a traversal offset.",
+      "to": "hgss:IPKE:r0:matrix:0:cell:22:13",
+      "toBlocked": true,
+      "toSurfaces": [
+        {
+          "plate": 0,
+          "yUnity": -0.0
+        }
+      ],
+      "visualStatus": "unresolved; no faithful visual-topology or pivot approval"
+    },
+    {
+      "decision": "document-blocked-source-elevation-step",
+      "from": "hgss:IPKE:r0:matrix:0:cell:22:12",
+      "fromBlocked": false,
+      "fromSurfaces": [
+        {
+          "plate": 5,
+          "yUnity": 0.5
+        }
+      ],
+      "id": "22,12:south:25",
+      "nearestDeltaUnity": 0.5,
+      "reason": "Zero-height source filler BDHC versus source route/town BDHC at0.5 or1 Unity; at least one static collision bit set. Model altitude is not a traversal offset.",
+      "to": "hgss:IPKE:r0:matrix:0:cell:22:13",
+      "toBlocked": true,
+      "toSurfaces": [
+        {
+          "plate": 0,
+          "yUnity": -0.0
+        }
+      ],
+      "visualStatus": "unresolved; no faithful visual-topology or pivot approval"
+    },
+    {
+      "decision": "document-blocked-source-elevation-step",
+      "from": "hgss:IPKE:r0:matrix:0:cell:22:12",
+      "fromBlocked": false,
+      "fromSurfaces": [
+        {
+          "plate": 5,
+          "yUnity": 0.5
+        }
+      ],
+      "id": "22,12:south:26",
+      "nearestDeltaUnity": 0.5,
+      "reason": "Zero-height source filler BDHC versus source route/town BDHC at0.5 or1 Unity; at least one static collision bit set. Model altitude is not a traversal offset.",
+      "to": "hgss:IPKE:r0:matrix:0:cell:22:13",
+      "toBlocked": true,
+      "toSurfaces": [
+        {
+          "plate": 0,
+          "yUnity": -0.0
+        }
+      ],
+      "visualStatus": "unresolved; no faithful visual-topology or pivot approval"
+    },
+    {
+      "decision": "document-blocked-source-elevation-step",
+      "from": "hgss:IPKE:r0:matrix:0:cell:22:12",
+      "fromBlocked": false,
+      "fromSurfaces": [
+        {
+          "plate": 5,
+          "yUnity": 0.5
+        }
+      ],
+      "id": "22,12:south:27",
+      "nearestDeltaUnity": 0.5,
+      "reason": "Zero-height source filler BDHC versus source route/town BDHC at0.5 or1 Unity; at least one static collision bit set. Model altitude is not a traversal offset.",
+      "to": "hgss:IPKE:r0:matrix:0:cell:22:13",
+      "toBlocked": true,
+      "toSurfaces": [
+        {
+          "plate": 0,
+          "yUnity": -0.0
+        }
+      ],
+      "visualStatus": "unresolved; no faithful visual-topology or pivot approval"
+    },
+    {
+      "decision": "document-blocked-source-elevation-step",
+      "from": "hgss:IPKE:r0:matrix:0:cell:22:12",
+      "fromBlocked": false,
+      "fromSurfaces": [
+        {
+          "plate": 5,
+          "yUnity": 0.5
+        }
+      ],
+      "id": "22,12:south:28",
+      "nearestDeltaUnity": 0.5,
+      "reason": "Zero-height source filler BDHC versus source route/town BDHC at0.5 or1 Unity; at least one static collision bit set. Model altitude is not a traversal offset.",
+      "to": "hgss:IPKE:r0:matrix:0:cell:22:13",
+      "toBlocked": true,
+      "toSurfaces": [
+        {
+          "plate": 0,
+          "yUnity": -0.0
+        }
+      ],
+      "visualStatus": "unresolved; no faithful visual-topology or pivot approval"
+    },
+    {
+      "decision": "document-blocked-source-elevation-step",
+      "from": "hgss:IPKE:r0:matrix:0:cell:22:12",
+      "fromBlocked": false,
+      "fromSurfaces": [
+        {
+          "plate": 5,
+          "yUnity": 0.5
+        }
+      ],
+      "id": "22,12:south:29",
+      "nearestDeltaUnity": 0.5,
+      "reason": "Zero-height source filler BDHC versus source route/town BDHC at0.5 or1 Unity; at least one static collision bit set. Model altitude is not a traversal offset.",
+      "to": "hgss:IPKE:r0:matrix:0:cell:22:13",
+      "toBlocked": true,
+      "toSurfaces": [
+        {
+          "plate": 0,
+          "yUnity": -0.0
+        }
+      ],
+      "visualStatus": "unresolved; no faithful visual-topology or pivot approval"
+    },
+    {
+      "decision": "document-blocked-source-elevation-step",
+      "from": "hgss:IPKE:r0:matrix:0:cell:22:12",
+      "fromBlocked": false,
+      "fromSurfaces": [
+        {
+          "plate": 5,
+          "yUnity": 0.5
+        }
+      ],
+      "id": "22,12:south:30",
+      "nearestDeltaUnity": 0.5,
+      "reason": "Zero-height source filler BDHC versus source route/town BDHC at0.5 or1 Unity; at least one static collision bit set. Model altitude is not a traversal offset.",
+      "to": "hgss:IPKE:r0:matrix:0:cell:22:13",
+      "toBlocked": true,
+      "toSurfaces": [
+        {
+          "plate": 0,
+          "yUnity": -0.0
+        }
+      ],
+      "visualStatus": "unresolved; no faithful visual-topology or pivot approval"
+    },
+    {
+      "decision": "document-blocked-source-elevation-step",
+      "from": "hgss:IPKE:r0:matrix:0:cell:22:12",
+      "fromBlocked": false,
+      "fromSurfaces": [
+        {
+          "plate": 5,
+          "yUnity": 0.5
+        }
+      ],
+      "id": "22,12:south:31",
+      "nearestDeltaUnity": 0.5,
+      "reason": "Zero-height source filler BDHC versus source route/town BDHC at0.5 or1 Unity; at least one static collision bit set. Model altitude is not a traversal offset.",
+      "to": "hgss:IPKE:r0:matrix:0:cell:22:13",
+      "toBlocked": true,
+      "toSurfaces": [
+        {
+          "plate": 0,
+          "yUnity": -0.0
+        }
+      ],
+      "visualStatus": "unresolved; no faithful visual-topology or pivot approval"
+    }
+  ],
+  "landSourceSha256": {
+    "0": "f9fbf0196f416739019288f24be604fd6c096a2ec4ebf7e820e116e7ecc329cc",
+    "11": "5108c16787240853949b33f6c677d6a2f83f89efb3b449b14db2425f1275e763",
+    "208": "9a0de72452bcfc852269a558e16d4c438212108ed804c43c0664e4aaecf1dd0a",
+    "209": "c54be5eec6d9e503618fee6016f5d296071eb647433574807beada8a12e1a1a0",
+    "210": "3b7dfdff204f037da0e0b8f1e082ec738e2c4cf9d461b8b9d7dc5954b68133c8",
+    "3": "3fde7a74a4b163c22f1bfbab163eca06aa38b8b6ae7d8b566b82c4204c2802fd"
+  },
+  "registerVersion": "1.0.0",
+  "reviewedLedgerSha256": "e098dfafad941c2a68346d42fb1e85b4993b179540c15fe28b4dc9382087a1e3",
+  "romSha256": "65f02a56842b75aa92d775d56d657a56fe3fa993550b04dc20704ab82d760105"
+}

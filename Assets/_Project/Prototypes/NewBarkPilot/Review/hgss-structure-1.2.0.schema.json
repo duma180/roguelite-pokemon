@@ -1,0 +1,55 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "urn:pokemon-roguelite:hgss-world-structure:1.2.0",
+  "title": "HGSS structural IR 1.2.0",
+  "type": "object",
+  "required": ["schema", "schemaVersion", "datasetId", "sourceRom", "structuralContract", "outdoorGeography", "events", "arm9HeaderTable", "scriptReferences", "toolPins"],
+  "properties": {
+    "schema": {"const": "org.pokemon-roguelite.hgss-world-structure"},
+    "schemaVersion": {"const": "1.2.0"},
+    "sourceRom": {
+      "type": "object", "required": ["gameCode", "revision", "sha256"],
+      "properties": {"gameCode": {"const": "IPKE"}, "revision": {"const": 0}, "sha256": {"const": "65f02a56842b75aa92d775d56d657a56fe3fa993550b04dc20704ab82d760105"}}
+    },
+    "structuralContract": {
+      "type": "object", "required": ["permissionIndex", "buildingRecordLayout", "permissionLookupCodeSha256", "migrationPolicy"],
+      "properties": {"permissionIndex": {"const": "x+32*z"}, "permissionLookupCodeSha256": {"$ref": "#/$defs/sha256"}}
+    },
+    "outdoorGeography": {
+      "type": "object", "required": ["matrix", "newBarkWorldCell", "landDataRecords"],
+      "properties": {"landDataRecords": {"type": "array", "minItems": 6, "maxItems": 6, "items": {"$ref": "#/$defs/land"}}}
+    }
+  },
+  "$defs": {
+    "sha256": {"type": "string", "pattern": "^[0-9a-f]{64}$"},
+    "i32vector": {"type": "array", "minItems": 3, "maxItems": 3, "items": {"type": "integer", "minimum": -2147483648, "maximum": 2147483647}},
+    "hex12": {"type": "string", "pattern": "^[0-9a-f]{24}$"},
+    "permission": {
+      "type": "object", "required": ["stableId", "sourceMember", "index", "x", "z", "serializationOrder", "typeRaw", "collisionRaw"],
+      "properties": {
+        "stableId": {"type": "string"}, "sourceMember": {"type": "string"},
+        "index": {"type": "integer", "minimum": 0, "maximum": 1023},
+        "x": {"type": "integer", "minimum": 0, "maximum": 31}, "z": {"type": "integer", "minimum": 0, "maximum": 31},
+        "typeRaw": {"type": "integer", "minimum": 0, "maximum": 255}, "collisionRaw": {"type": "integer", "minimum": 0, "maximum": 255}
+      }
+    },
+    "building": {
+      "type": "object", "required": ["stableId", "sourceMember", "index", "modelIdRaw", "positionRaw", "translationRawFx32", "rotationRaw32", "scaleRawFx32", "translationRawHex", "rotationRawHex", "scaleRawHex", "unknownPaddingHex", "rawHex", "rawSha256"],
+      "properties": {
+        "modelIdRaw": {"type": "integer", "minimum": 0, "maximum": 4294967295},
+        "translationRawFx32": {"$ref": "#/$defs/i32vector"}, "rotationRaw32": {"$ref": "#/$defs/i32vector"}, "scaleRawFx32": {"$ref": "#/$defs/i32vector"},
+        "translationRawHex": {"$ref": "#/$defs/hex12"}, "rotationRawHex": {"$ref": "#/$defs/hex12"}, "scaleRawHex": {"$ref": "#/$defs/hex12"},
+        "unknownPaddingHex": {"type": "string", "pattern": "^[0-9a-f]{16}$"}, "rawHex": {"type": "string", "pattern": "^[0-9a-f]{96}$"}, "rawSha256": {"$ref": "#/$defs/sha256"}
+      }
+    },
+    "land": {
+      "type": "object", "required": ["stableId", "sourceMember", "landDataId", "rawSha256", "permissionRawSha256", "permissions", "buildings", "bdhc", "bgsRawHex", "skippedModelSection"],
+      "properties": {
+        "rawSha256": {"$ref": "#/$defs/sha256"}, "permissionRawSha256": {"$ref": "#/$defs/sha256"},
+        "permissions": {"type": "array", "minItems": 1024, "maxItems": 1024, "items": {"$ref": "#/$defs/permission"}},
+        "buildings": {"type": "array", "items": {"$ref": "#/$defs/building"}}
+      }
+    }
+  },
+  "$comment": "Additive unknown fields are allowed and must be preserved. Semantic constraints index=x+32*z, vector/raw-byte equality, section hashes, global ID uniqueness and ROM equality are mandatory in validate_structure.py and the Unity importer; JSON Schema alone cannot express them. BDHC/event structures are retained unchanged from1.1.0 and checked against the pinned ROM/old records."
+}
