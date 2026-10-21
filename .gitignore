@@ -1,0 +1,64 @@
+# Unity generated directories
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Bb]uild/
+/[Bb]uilds/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+/Assets/AssetStoreTools*
+
+# IDE and generated project files
+.vs/
+.idea/
+.vscode/
+.gradle/
+*.csproj
+*.unityproj
+*.sln
+*.slnx
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+
+# Crash reports and build output
+sysinfo.txt
+mono_crash.*
+*.apk
+*.aab
+*.unitypackage
+/TestResults/
+/coverage/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Local Unity editor layout can contain machine-specific paths and window state
+/Assets/TutorialInfo/Layout.wlt*
+
+# Keep original game dumps, emulator saves, and temporary research evidence local
+*.nds
+*.gba
+*.sav
+*.sav.*
+*.dsv
+*.ml[0-9]
+*.rom
+*.iso
+*.cia
+/PilotEvidence/
