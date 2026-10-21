@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "dependencies": {
+    ".NETStandard,Version=v2.1": {
+      "domain": {
+        "type": "Project",
+        "dependencies": {
+          "GameplayCore": "[1.0.0, )"
+        }
+      },
+      "gameplaycore": {
+        "type": "Project"
+      }
+    }
+  }
+}

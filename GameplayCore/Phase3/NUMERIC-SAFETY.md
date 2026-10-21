@@ -1,0 +1,13 @@
+# Numeric safety for later roguelite progression
+
+Phase 3 does not implement enhancement ranks, zone scaling, price curves, ceilings, Poké-Point balances, or reset transactions. The accepted combat API stores stats and HP as bounded `int`; the accepted HGSS calculator and damage formula use checked integer arithmetic. That is safe for ordinary Generation IV values, but it cannot represent unlimited effective enhancements.
+
+Store purchase ranks, currency totals, and unbounded accumulated amounts as `BigInteger`. Keep the six purchased rank tracks separate from base stats, IVs, EVs, zone modifier, and badge-unlocked ceiling. The stated per-rank +5 percentage points can be represented exactly as a rational multiplier `(100 + 5 × effectiveRanks) / 100`; ranks above the unlocked effective ceiling remain banked. Do not use floating point or cap ranks to fit `int`.
+
+Represent the zone modifier as an integer number of basis points: `1,500 × zoneTier` basis points, so Route 45's +270% modifier is 37,000 basis points total, or a 3.7 multiplier. The modifier is additive across zone tiers as specified; do not compound it once per tier. Keep enemy scaling separate from persistent player enhancements.
+
+The effective value needed by battle must remain a `BigInteger` or an exact numerator/denominator through stat calculation and damage arithmetic. A future bridge that casts back to `int` would impose an implicit ceiling, so it needs a reviewed rule before implementation. A practical design is to keep the unbounded domain exact and use a battle arithmetic interface with `BigInteger` intermediate products and explicit floor points matching HGSS. It must be differentially tested against the unchanged Phase 1 `int` implementation when modifiers are zero. The current Phase 3 engine is not ready to accept unbounded enhancements.
+
+The pricing rule also needs exact indexing at every third rank: first rank 10 PP, then +5 PP per three ranks, maximum purchase price 100 PP. Its mathematical expression can be evaluated with `BigInteger`; a currency balance smaller than a price must simply reject purchase without overflow. Full Gym milestone state should use a fixed 16-bit defeated-leader mask, plus a permanent Boolean indicating all leaders completed; the final no-ceiling policy is a separate state rule, not a cap on purchased ranks.
+
+Reset preservation must operate transactionally on persistent records: identity, evolution, moves, nature, ability, permanent enhancements survive; only the approved reset fields change. Protected PC-box rules and PP reward transactions are not defined by this phase and remain separate policy interfaces.

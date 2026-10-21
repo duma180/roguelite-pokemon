@@ -1,0 +1,19 @@
+# .NET build and test output
+**/bin/
+**/obj/
+**/TestResults/
+**/coverage/
+
+# Emulator runtimes, ROMs, saves, and save states must stay local
+**/Runtime/
+**/*.nds
+**/*.sav
+**/*.save
+**/*.ml[0-9]
+**/*.dsv
+**/*.rom
+
+# The parent Unity .gitignore excludes generated project files globally.
+!*.csproj
+!*.sln
+!*.slnx

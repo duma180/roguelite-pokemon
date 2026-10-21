@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "dependencies": {
+    "net10.0": {
+      "domain": {
+        "type": "Project",
+        "dependencies": {
+          "GameplayCore": "[1.0.0, )"
+        }
+      },
+      "gameplaycore": {
+        "type": "Project"
+      },
+      "persistence": {
+        "type": "Project",
+        "dependencies": {
+          "Domain": "[1.0.0, )"
+        }
+      }
+    }
+  }
+}
